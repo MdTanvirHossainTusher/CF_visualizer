@@ -13,7 +13,6 @@ Later we utilized the scraped data to understand the following demographics and 
 6. Tags-wise problems details.
 
 To see the visualization and findings you can visit the public dashboard here[ [1-4](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_1/visualization), 
-[5](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_2/Sheet3)https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_2/Sheet3), 
-[6](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_3/Sheet5)https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_3/Sheet5) ].
+[5](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_2/Sheet3), [6](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_3/Sheet5)].
 
 
