@@ -1,5 +1,5 @@
 {
-    "page_no_to_scrape": 2,
-    "filename_to_save_dataset": "cf_problem_details2.csv",
+    "page_no_to_scrape": 12,
+    "filename_to_save_dataset": "cf_problem_details.csv",
     "put_empty_string": ""
 }
