@@ -1,0 +1,201 @@
+Problem No,Problem Category,Problem Name,Tags,Difficulty,Total solve
+1843,F2,Omsk Metro (hard version),"['data structures', 'dfs and similar', 'divide and conquer', 'dp', 'math', 'trees']",,616
+1843,F1,Omsk Metro (simple version),"['data structures', 'dfs and similar', 'dp', 'greedy', 'math', 'trees']",,2623
+1843,E,Tracking Segments,"['binary search', 'brute force', 'data structures', 'two pointers']",,5851
+1843,D,Apple Tree,"['combinatorics', 'dfs and similar', 'dp', 'math', 'trees']",,10474
+1843,C,Sum in Binary Tree,"['bitmasks', 'combinatorics', 'math', 'trees']",,19723
+1843,B,Long Long,"['greedy', 'math', 'two pointers']",,18557
+1843,A,Sasha and Array Coloring,"['greedy', 'sortings', 'two pointers']",,22051
+1842,I,Tenzing and Necklace,"['divide and conquer', 'dp', 'greedy']",,14
+1842,H,Tenzing and Random Real Numbers,"['bitmasks', 'dp', 'graphs', 'math', 'probabilities']",,103
+1842,G,Tenzing and Random Operations,"['combinatorics', 'dp', 'math', 'probabilities']",,190
+1842,F,Tenzing and Tree,"['brute force', 'dfs and similar', 'graphs', 'greedy', 'shortest paths', 'sortings', 'trees']",,447
+1842,E,Tenzing and Triangle,"['data structures', 'dp', 'geometry', 'greedy', 'math']",,654
+1842,D,Tenzing and His Animal Friends,"['brute force', 'constructive algorithms', 'graphs', 'greedy', 'shortest paths']",,2095
+1842,C,Tenzing and Balls,['dp'],,5250
+1842,B,Tenzing and Books,"['bitmasks', 'greedy', 'math']",,8890
+1842,A,Tenzing and Tsondu,"['games', 'math']",,12699
+1841,F,Monocarp and a Strategic Game,"['geometry', 'sortings', 'two pointers']",2700,283
+1841,E,Fill the Matrix,"['data structures', 'greedy', 'math']",2200,1128
+1841,D,Pairs of Segments,"['data structures', 'greedy', 'sortings', 'two pointers']",2000,2569
+1841,C,Ranom Numbers,"['brute force', 'dp', 'greedy', 'math', 'strings']",1800,5013
+1841,B,Keep it Beautiful,['implementation'],1000,14718
+1841,A,Game with Board,"['constructive algorithms', 'games']",800,19223
+1840,G2,In Search of Truth (Hard Version),"['constructive algorithms', 'interactive', 'math', 'meet-in-the-middle', 'probabilities']",2500,547
+1840,G1,In Search of Truth (Easy Version),"['constructive algorithms', 'interactive', 'math', 'meet-in-the-middle', 'probabilities']",2200,1574
+1840,F,Railguns,"['brute force', 'dfs and similar', 'dp', 'graphs']",2200,1091
+1840,E,Character Blocking,"['data structures', 'hashing', 'implementation']",1600,5044
+1840,D,Wooden Toy Festival,"['binary search', 'greedy', 'sortings']",1400,8779
+1840,C,Ski Resort,"['combinatorics', 'math', 'two pointers']",1000,16854
+1840,B,Binary Cafe,"['bitmasks', 'combinatorics', 'math']",1100,16310
+1840,A,Cipher Shifer,"['implementation', 'strings', 'two pointers']",800,24973
+1839,E,Decreasing Game,"['constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'interactive']",2400,747
+1839,D,Ball Sorting,"['data structures', 'dp', 'sortings']",2100,1423
+1839,C,Insert Zero and Invert Prefix,['constructive algorithms'],1300,8072
+1839,B,Lamps,"['greedy', 'sortings']",1100,10863
+1839,A,The Good Array,"['greedy', 'implementation', 'math']",800,14004
+1838,F,Stuck Conveyor,"['binary search', 'constructive algorithms', 'interactive']",3000,186
+1838,E,Count Supersequences,"['combinatorics', 'dp', 'math']",2500,886
+1838,D,Bracket Walk,"['data structures', 'greedy', 'strings']",2100,2204
+1838,C,No Prime Differences,"['constructive algorithms', 'math', 'number theory']",1400,9439
+1838,B,Minimize Permutation Subarrays,"['constructive algorithms', 'math']",1100,12487
+1838,A,Blackboard List,"['constructive algorithms', 'math']",800,17194
+1837,F,Editorial for Two,"['binary search', 'data structures', 'greedy', 'implementation']",2400,1480
+1837,E,Playoff Fixing,"['combinatorics', 'trees']",2200,1596
+1837,D,Bracket Coloring,"['constructive algorithms', 'greedy']",1400,9807
+1837,C,Best Binary String,"['constructive algorithms', 'greedy']",1000,16882
+1837,B,Comparison String,['greedy'],900,19450
+1837,A,Grasshopper on a Line,"['constructive algorithms', 'math']",800,22664
+1836,B,Astrophysicists,"['greedy', 'math']",1100,8563
+1836,A,Destroyer,"['implementation', 'sortings']",800,14051
+1835,F,Good Graph,"['bitmasks', 'dfs and similar', 'graph matchings', 'graphs', 'implementation']",3500,49
+1835,E,Old Mobile,"['combinatorics', 'dp', 'probabilities']",3500,81
+1835,D,Doctor's Brown Hypothesis,"['dfs and similar', 'graphs', 'math', 'number theory']",2900,204
+1835,C,Twin Clusters,"['bitmasks', 'brute force', 'constructive algorithms', 'math', 'probabilities']",2600,547
+1835,B,Lottery,"['binary search', 'brute force', 'greedy', 'math', 'two pointers']",2500,484
+1835,A,k-th equality,"['brute force', 'implementation', 'math']",1700,4516
+1834,F,Typewriter,"['brute force', 'math']",2500,257
+1834,E,MEX of LCM,"['binary search', 'data structures', 'implementation', 'math', 'number theory']",2300,995
+1834,D,Survey in Class,"['brute force', 'data structures', 'greedy', 'implementation', 'sortings']",1900,2307
+1834,C,Game with Reversing,"['games', 'greedy', 'math', 'strings']",1200,7852
+1834,B,Maximum Strength,"['greedy', 'math']",1000,9642
+1834,A,Unit Array,"['greedy', 'math']",800,13468
+1833,G,Ksyusha and Chinchilla,"['constructive algorithms', 'dfs and similar', 'dp', 'dsu', 'greedy', 'implementation', 'trees']",1800,3289
+1833,F,Ira and Flamenco,"['combinatorics', 'constructive algorithms', 'data structures', 'implementation', 'math', 'sortings', 'two pointers']",1700,4680
+1833,E,Round Dance,"['dfs and similar', 'dsu', 'graphs', 'shortest paths']",1600,6958
+1833,D,Flipper,"['brute force', 'constructive algorithms', 'greedy']",1400,9887
+1833,C,Vlad Building Beautiful Array,"['greedy', 'math']",800,21593
+1833,B,Restore the Weather,"['greedy', 'sortings']",900,20278
+1833,A,Musical Puzzle,"['implementation', 'strings']",800,26378
+1832,F,Zombies,"['binary search', 'dp']",3200,182
+1832,E,Combinatorics Problem,"['brute force', 'combinatorics', 'dp']",2200,1596
+1832,D2,Red-Blue Operations (Hard Version),"['binary search', 'constructive algorithms', 'greedy', 'implementation', 'math']",2400,1396
+1832,D1,Red-Blue Operations (Easy Version),"['binary search', 'greedy', 'implementation', 'math']",2100,2213
+1832,C,Contrast Value,"['greedy', 'implementation']",1200,13134
+1832,B,Maximum Sum,"['brute force', 'sortings', 'two pointers']",1100,14678
+1832,A,New Palindrome,['strings'],800,20637
+1831,B,Array merging,"['constructive algorithms', 'greedy']",1000,13870
+1831,A,Twin Permutations,['constructive algorithms'],800,18863
+1830,F,The Third Grace,"['data structures', 'dp']",3200,75
+1830,E,Bully Sort,"['data structures', 'math']",3500,108
+1830,D,Mex Tree,"['brute force', 'dp', 'trees']",2800,359
+1830,C,Hyperregular Bracket Strings,"['combinatorics', 'greedy', 'hashing', 'math', 'number theory', 'sortings']",2400,1066
+1830,B,The BOSS Can Count Pairs,"['brute force', 'math']",2000,3342
+1830,A,Copil Copac Draws Trees,"['dfs and similar', 'dp', 'graphs', 'trees']",1400,9010
+1829,H,Don't Blame Me,"['bitmasks', 'combinatorics', 'dp', 'math']",1700,4476
+1829,G,Hits Different,"['data structures', 'dp', 'implementation', 'math']",1600,6146
+1829,F,Forever Winter,"['dfs and similar', 'graphs', 'math']",1300,11120
+1829,E,The Lakes,"['dfs and similar', 'dsu', 'graphs', 'implementation']",1100,12984
+1829,D,Gold Rush,"['brute force', 'dfs and similar', 'dp', 'implementation']",1000,17148
+1829,C,Mr. Perfectly Fine,"['bitmasks', 'greedy', 'implementation']",800,20715
+1829,B,Blank Space,['implementation'],800,27680
+1829,A,Love Story,"['implementation', 'strings']",800,30379
+1828,B,Permutation Swap,"['math', 'number theory']",900,15741
+1828,A,Divisible Array,"['constructive algorithms', 'math']",800,19365
+1827,F,Copium Permutation,"['constructive algorithms', 'data structures', 'greedy']",3500,72
+1827,E,Bus Routes,"['binary search', 'constructive algorithms', 'dfs and similar', 'greedy', 'trees']",3400,202
+1827,D,Two Centroids,"['data structures', 'dfs and similar', 'greedy', 'trees']",2800,452
+1827,C,Palindrome Partition,"['binary search', 'brute force', 'data structures', 'dp', 'hashing', 'strings']",2600,737
+1827,B2,Range Sorting (Hard Version),"['binary search', 'data structures', 'dp', 'greedy']",2400,1271
+1827,B1,Range Sorting (Easy Version),"['binary search', 'dp', 'dsu', 'greedy', 'trees', 'two pointers']",2000,2788
+1827,A,Counting Orders,"['combinatorics', 'math', 'sortings', 'two pointers']",1100,13763
+1826,F,Fading into Fog,"['geometry', 'interactive', 'math', 'probabilities']",2800,248
+1826,E,Walk the Runway,"['bitmasks', 'brute force', 'data structures', 'dp', 'graphs', 'implementation', 'sortings']",2400,1128
+1826,D,Running Miles,"['brute force', 'dp', 'greedy']",1700,5398
+1826,C,Dreaming of Freedom,"['greedy', 'math', 'number theory']",1300,9470
+1826,B,Lunatic Never Content,"['math', 'number theory']",1100,11784
+1826,A,Trust Nobody,"['brute force', 'greedy', 'implementation', 'sortings']",1200,11158
+1825,B,LuoTianyi and the Table,"['greedy', 'math']",1000,11848
+1825,A,LuoTianyi and the Palindrome String,"['greedy', 'strings']",800,16355
+1824,E,LuoTianyi and Cartridge,"['data structures', 'trees']",3500,87
+1824,D,LuoTianyi and the Function,['data structures'],3000,277
+1824,C,LuoTianyi and XOR-Tree,"['data structures', 'dfs and similar', 'dp', 'dsu', 'greedy', 'trees']",2500,856
+1824,B2,LuoTianyi and the Floating Islands (Hard Version),"['combinatorics', 'dfs and similar', 'math', 'probabilities', 'trees']",2300,1968
+1824,B1,LuoTianyi and the Floating Islands (Easy Version),"['combinatorics', 'math', 'probabilities', 'trees']",1800,3341
+1824,A,LuoTianyi and the Show,"['greedy', 'implementation']",1400,8547
+1823,F,Random Walk,"['dp', 'graphs', 'math', 'probabilities', 'trees']",2600,490
+1823,E,Removing Graph,"['brute force', 'dp', 'games', 'graphs', 'math']",2500,955
+1823,D,Unique Palindromes,"['constructive algorithms', 'math', 'strings']",1900,2883
+1823,C,Strongly Composite,"['greedy', 'math', 'number theory']",1300,9103
+1823,B,Sort with Step,"['brute force', 'math', 'sortings']",900,12399
+1823,A,A-characteristic,"['combinatorics', 'constructive algorithms', 'math']",800,13722
+1822,G2,Magic Triples (Hard Version),"['brute force', 'data structures', 'math', 'number theory']",2200,1654
+1822,G1,Magic Triples (Easy Version),"['brute force', 'data structures', 'math', 'number theory']",1700,4633
+1822,F,Gardening Friends,"['brute force', 'dfs and similar', 'dp', 'graphs', 'trees']",1700,3766
+1822,E,Making Anti-Palindromes,"['greedy', 'math', 'strings']",1600,6902
+1822,D,Super-Permutation,"['constructive algorithms', 'math']",1200,12272
+1822,C,Bun Lover,['math'],800,18611
+1822,B,Karina and Array,"['greedy', 'math', 'sortings']",800,19955
+1822,A,TubeTube Feed,"['brute force', 'implementation']",800,20015
+1821,F,Timber,"['combinatorics', 'dp', 'fft', 'math']",2600,526
+1821,E,Rearrange Brackets,"['brute force', 'dp', 'greedy', 'sortings', 'strings']",2100,1654
+1821,D,Black Cells,"['binary search', 'brute force', 'greedy', 'math']",1900,3735
+1821,C,Tear It Apart,"['brute force', 'implementation', 'math', 'strings']",1300,10422
+1821,B,Sort the Subarray,"['brute force', 'greedy']",1100,13469
+1821,A,Matching,"['combinatorics', 'math']",800,16633
+1820,B,JoJo's Incredible Adventures,"['math', 'strings', 'two pointers']",1100,10565
+1820,A,Yura's New Name,"['implementation', 'strings']",800,14094
+1819,F,"Willy-nilly, Crack, Into Release!","['data structures', 'dp']",3500,92
+1819,E,Roads in E City,"['interactive', 'math', 'probabilities', 'trees']",3200,167
+1819,D,Misha and Apples,"['brute force', 'data structures', 'dp', 'two pointers']",2800,462
+1819,C,The Fox and the Complete Tree Traversal,"['constructive algorithms', 'dp', 'implementation', 'math', 'trees']",2400,1081
+1819,B,The Butcher,"['geometry', 'greedy', 'implementation', 'sortings', 'two pointers']",1900,2702
+1819,A,Constructive Problem,"['brute force', 'greedy']",1300,9517
+1818,B,Indivisible,['constructive algorithms'],900,11062
+1818,A,Politics,"['greedy', 'implementation']",800,11020
+1817,F,Entangled Substrings,"['string suffix structures', 'strings']",3500,97
+1817,E,Half-sum,"['brute force', 'divide and conquer', 'greedy']",3400,161
+1817,D,Toy Machine,"['constructive algorithms', 'games', 'implementation']",2700,459
+1817,C,Similar Polynomials,"['combinatorics', 'math']",2400,744
+1817,B,Fish Graph,"['brute force', 'constructive algorithms', 'dfs and similar', 'graphs']",1900,2867
+1817,A,Almost Increasing Subsequence,"['binary search', 'data structures', 'greedy']",1500,7787
+1816,B,Grid Reconstruction,"['constructive algorithms', 'greedy']",1000,12589
+1816,A,Ian Visits Mary,"['constructive algorithms', 'geometry', 'number theory']",800,15008
+1815,F,OH NO1 (-2-3-4),"['constructive algorithms', 'graphs', 'math']",3500,144
+1815,E,Bosco and Particle,"['dp', 'math', 'number theory', 'strings']",3100,232
+1815,D,XOR Counting,"['bitmasks', 'combinatorics', 'dp', 'math']",2600,736
+1815,C,Between,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy']",2200,1454
+1815,B,Sum Graph,"['brute force', 'constructive algorithms', 'graphs', 'implementation', 'interactive', 'shortest paths', 'trees']",2000,2310
+1815,A,Ian and Array Sorting,"['greedy', 'math']",1300,10949
+1814,F,Communication Towers,"['brute force', 'divide and conquer', 'dsu']",2700,334
+1814,E,Chain Chips,"['data structures', 'dp', 'matrices']",2300,939
+1814,D,Balancing Weapons,"['binary search', 'brute force', 'data structures', 'math', 'two pointers']",2500,641
+1814,C,Search in Parallel,"['constructive algorithms', 'greedy', 'sortings']",1500,7983
+1814,B,Long Legs,"['brute force', 'math']",1700,7625
+1814,A,Coins,"['implementation', 'math']",800,20666
+1811,G2,Vlad and the Nice Paths (hard version),"['binary search', 'combinatorics', 'data structures', 'dp', 'math', 'two pointers']",2200,1151
+1811,G1,Vlad and the Nice Paths (easy version),"['combinatorics', 'dp', 'math']",2100,1389
+1811,F,Is It Flower?,"['dfs and similar', 'graphs', 'implementation']",2100,1270
+1811,E,Living Sequence,"['binary search', 'dp', 'math', 'number theory']",1500,8642
+1811,D,Umka and a Long Flight,"['constructive algorithms', 'implementation', 'math']",1600,5465
+1811,C,Restore the Array,"['constructive algorithms', 'greedy']",1100,15759
+1811,B,Conveyor Belts,"['implementation', 'math']",1000,16823
+1811,A,Insert Digit,"['greedy', 'math', 'strings']",800,25043
+1810,H,Last Number,"['combinatorics', 'math']",2900,86
+1810,G,The Maximum Prefix,['dp'],3200,277
+1810,F,M-tree,"['data structures', 'math', 'sortings', 'trees']",2800,427
+1810,E,Monsters,"['brute force', 'data structures', 'dfs and similar', 'dsu', 'graphs', 'greedy']",2100,2335
+1810,D,Climbing the Tree,"['binary search', 'math']",1700,5792
+1810,C,Make It Permutation,"['brute force', 'greedy', 'sortings']",1300,11344
+1810,B,Candies,"['constructive algorithms', 'math', 'number theory']",800,15523
+1810,A,Beautiful Sequence,"['brute force', 'greedy']",800,18432
+1809,G,Prediction,"['combinatorics', 'dp', 'math']",2800,273
+1809,F,Traveling in Berland,"['binary search', 'data structures', 'graphs', 'greedy', 'implementation']",2500,558
+1809,E,Two Tanks,"['binary search', 'dp', 'implementation', 'math']",2400,622
+1809,D,Binary String Sorting,"['constructive algorithms', 'greedy']",1800,4638
+1809,C,Sum on Subarrays,"['constructive algorithms', 'greedy', 'math']",1500,9431
+1809,B,Points on Plane,"['binary search', 'greedy', 'math']",1000,16383
+1809,A,Garland,['implementation'],800,21341
+1808,E3,Minibuses on Venus (hard version),"['brute force', 'combinatorics', 'dp', 'math']",2800,287
+1808,E2,Minibuses on Venus (medium version),"['combinatorics', 'divide and conquer', 'dp', 'matrices']",2500,460
+1808,E1,Minibuses on Venus (easy version),"['combinatorics', 'divide and conquer', 'dp']",2200,924
+1808,D,"Petya, Petya, Petr, and Palindromes","['binary search', 'brute force', 'data structures', 'two pointers']",2100,1724
+1808,C,Unlucky Numbers,"['brute force', 'dp', 'greedy', 'implementation']",1900,2835
+1808,B,Playing in a Casino,"['math', 'sortings']",1200,10732
+1808,A,Lucky Numbers,"['brute force', 'implementation']",900,14167
+1807,G2,Subsequence Addition (Hard Version),"['bitmasks', 'dp', 'greedy', 'implementation', 'sortings']",1100,14220
+1807,G1,Subsequence Addition (Easy Version),"['brute force', 'data structures', 'dp', 'greedy', 'implementation', 'sortings']",1100,14727
+1807,F,Bouncy Ball,"['brute force', 'dfs and similar', 'implementation']",1700,4498
+1807,E,Interview,"['binary search', 'implementation', 'interactive']",1300,9149
+1807,D,Odd Queries,"['data structures', 'implementation']",900,21266
+1807,C,Find and Replace,"['greedy', 'implementation', 'strings']",800,24417
