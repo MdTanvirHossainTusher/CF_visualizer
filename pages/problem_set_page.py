@@ -1,20 +1,13 @@
 from selenium.webdriver.common.by import By
-
 from browser.driver_manager import driver
 from models.problems_model import Problem
+import utils.load_json_file as load_file
 import pandas as pd
 import os
 
-# driver_path = os.path.join(os.path.dirname(__file__), "../browser/driver_manager.py")
-
-
-# problem_set = driver.find_element(
-#     By.XPATH, "//div[contains(@class,'menu-box')]//li[6]//a"
-# )
-# problems = driver.find_elements(By.XPATH, "//table[contains(@class,'problems')]//tr")
-# highest_page_no = driver.find_elements(
-#     By.XPATH, f"//span[contains(@class,'page-index')]//a"
-# )
+scrape_data_file_path = os.path.join(
+    os.path.dirname(__file__), "../resources/scrape_data.json"
+)
 
 
 columns = [
@@ -25,26 +18,12 @@ columns = [
     "Difficulty",
     "Total solve",
 ]
-# url = "https://codeforces.com/"
 
-pages = 2
+
+pages = load_file.get_web_url(scrape_data_file_path, "page_no_to_scrape")
 page_no_start = 1
 page_no_end = pages + 1
-
 each_page_problem_start_no = 2
-
-
-# class ProblemScraper:
-#     def __init__(self):
-#         self.driver = self.create_driver()
-#         self.columns = [
-#             "Problem No",
-#             "Problem Category",
-#             "Problem Name",
-#             "Tags",
-#             "Difficulty",
-#             "Total solve",
-#         ]
 
 
 def get_problems_details(row):
@@ -57,21 +36,6 @@ def get_problems_details(row):
     contents["Difficulty"] = problem.difficulty
     contents["Total solve"] = problem.total_solve
     return contents
-
-
-# def init():
-#     options = Options()
-#     options.add_argument("--incognito")
-#     options.add_experimental_option("excludeSwitches", ["enable-logging"])
-#     driver = webdriver.Chrome(
-#         service=ChromeService(ChromeDriverManager().install()), options=options
-#     )
-#     driver.get(url)
-#     return driver
-
-
-def exit():
-    driver.quit()
 
 
 def split_string(prb_no_category):
@@ -119,7 +83,7 @@ def get_prb_name_and_tags(j):
             f"//table[contains(@class,'problems')]//tr[{j}]//td[2]//div[2]//a",
         )
     if len(prb_tags) == 0:
-        prb_tags = ""
+        prb_tags = load_file.get_web_url(scrape_data_file_path, "put_empty_string")
     return prb_name, prb_tags
 
 
@@ -135,7 +99,7 @@ def get_prb_difficulty(j):
         By.XPATH, f"//table[contains(@class,'problems')]//tr[{j}]//td[4]"
     ).text
     if len(difficulty) == 0:
-        difficulty = ""
+        difficulty = load_file.get_web_url(scrape_data_file_path, "put_empty_string")
     else:
         difficulty = driver.find_element(
             By.XPATH,
@@ -152,7 +116,7 @@ def get_prb_solve_cnt(j):
         ).text
         solves = solves[2:]
     except Exception:
-        solves = ""
+        solves = load_file.get_web_url(scrape_data_file_path, "put_empty_string")
     return solves
 
 
@@ -161,11 +125,6 @@ def click_next_page(i):
         By.XPATH,
         f"//div[contains(@class,'pagination')]//ul//span[contains(@class,'page-index')]//a[text()='{i+1}']",
     ).click()
-
-
-def save_prb_details_as_dataset(problems_details):
-    df = pd.DataFrame(data=problems_details, columns=columns)
-    df.to_csv("cf_problem_details1.csv", index=False)
 
 
 def get_total_problem_in_each_page():
@@ -181,6 +140,18 @@ def get_highest_page_no():
     )
     return max(
         [int(highest_page_no[page_no].text) for page_no in range(len(highest_page_no))]
+    )
+
+
+def exit():
+    driver.quit()
+
+
+def save_prb_details_as_dataset(problems_details):
+    df = pd.DataFrame(data=problems_details, columns=columns)
+    df.to_csv(
+        load_file.get_web_url(scrape_data_file_path, "filename_to_save_dataset"),
+        index=False,
     )
 
 

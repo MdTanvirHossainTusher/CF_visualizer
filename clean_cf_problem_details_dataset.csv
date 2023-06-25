@@ -1,0 +1,1201 @@
+Contest No,Problem Category,Problem Name,Tags,Difficulty,Total solve
+1843,F2,Omsk Metro (hard version),"['data structures', 'dfs and similar', 'dp', 'math', 'trees']",2857.1428571428573,552.0
+1843,F1,Omsk Metro (simple version),"['data structures', 'dfs and similar', 'dp', 'greedy', 'math', 'trees']",2485.714285714286,2488.0
+1843,E,Tracking Segments,"['binary search', 'brute force', 'data structures', 'two pointers']",2313.4615384615386,5561.0
+1843,D,Apple Tree,"['combinatorics', 'dfs and similar', 'dp', 'math', 'trees']",1888.7417218543046,10036.0
+1843,C,Sum in Binary Tree,"['bitmasks', 'combinatorics', 'math', 'trees']",1503.1645569620252,19024.0
+1843,B,Long Long,"['greedy', 'math', 'two pointers']",1098.3050847457628,17848.0
+1843,A,Sasha and Array Coloring,"['greedy', 'sortings', 'two pointers']",898.3050847457627,21217.0
+1841,F,Monocarp and a Strategic Game,"['geometry', 'sortings', 'two pointers']",2700.0,276.0
+1841,E,Fill the Matrix,"['data structures', 'greedy', 'math']",2200.0,1098.0
+1841,D,Pairs of Segments,"['data structures', 'greedy', 'sortings', 'two pointers']",2000.0,2506.0
+1841,C,Ranom Numbers,"['brute force', 'dp', 'greedy', 'math', 'strings']",1800.0,4922.0
+1841,B,Keep it Beautiful,['implementation'],1000.0,14510.0
+1841,A,Game with Board,"['constructive algorithms', 'games']",800.0,18969.0
+1840,G2,In Search of Truth (Hard Version),"['constructive algorithms', 'interactive', 'math', 'meet-in-the-middle', 'probabilities']",2500.0,538.0
+1840,G1,In Search of Truth (Easy Version),"['constructive algorithms', 'interactive', 'math', 'meet-in-the-middle', 'probabilities']",2200.0,1563.0
+1840,F,Railguns,"['brute force', 'dfs and similar', 'dp', 'graphs']",2200.0,1079.0
+1840,E,Character Blocking,"['data structures', 'hashing', 'implementation']",1600.0,4991.0
+1840,D,Wooden Toy Festival,"['binary search', 'greedy', 'sortings']",1400.0,8672.0
+1840,C,Ski Resort,"['combinatorics', 'math', 'two pointers']",1000.0,16728.0
+1840,B,Binary Cafe,"['bitmasks', 'combinatorics', 'math']",1100.0,16172.0
+1840,A,Cipher Shifer,"['implementation', 'strings', 'two pointers']",800.0,24760.0
+1839,E,Decreasing Game,"['constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'interactive']",2400.0,736.0
+1839,D,Ball Sorting,"['data structures', 'dp', 'sortings']",2100.0,1406.0
+1839,C,Insert Zero and Invert Prefix,['constructive algorithms'],1300.0,7981.0
+1839,B,Lamps,"['greedy', 'sortings']",1100.0,10759.0
+1839,A,The Good Array,"['greedy', 'implementation', 'math']",800.0,13899.0
+1838,F,Stuck Conveyor,"['binary search', 'constructive algorithms', 'interactive']",3000.0,181.0
+1838,E,Count Supersequences,"['combinatorics', 'dp', 'math']",2500.0,877.0
+1838,D,Bracket Walk,"['data structures', 'greedy', 'strings']",2100.0,2173.0
+1838,C,No Prime Differences,"['constructive algorithms', 'math', 'number theory']",1400.0,9358.0
+1838,B,Minimize Permutation Subarrays,"['constructive algorithms', 'math']",1100.0,12411.0
+1838,A,Blackboard List,"['constructive algorithms', 'math']",800.0,17087.0
+1837,F,Editorial for Two,"['binary search', 'data structures', 'greedy', 'implementation']",2400.0,1469.0
+1837,E,Playoff Fixing,"['combinatorics', 'trees']",2200.0,1584.0
+1837,D,Bracket Coloring,"['constructive algorithms', 'greedy']",1400.0,9754.0
+1837,C,Best Binary String,"['constructive algorithms', 'greedy']",1000.0,16800.0
+1837,B,Comparison String,['greedy'],900.0,19354.0
+1837,A,Grasshopper on a Line,"['constructive algorithms', 'math']",800.0,22560.0
+1836,B,Astrophysicists,"['greedy', 'math']",1100.0,8381.0
+1836,A,Destroyer,"['implementation', 'sortings']",800.0,13772.0
+1835,F,Good Graph,"['bitmasks', 'dfs and similar', 'graph matchings', 'graphs', 'implementation']",3500.0,47.0
+1835,E,Old Mobile,"['combinatorics', 'dp', 'probabilities']",3500.0,78.0
+1835,D,Doctor's Brown Hypothesis,"['dfs and similar', 'graphs', 'math', 'number theory']",2900.0,195.0
+1835,C,Twin Clusters,"['bitmasks', 'brute force', 'constructive algorithms', 'math', 'probabilities']",2600.0,521.0
+1835,B,Lottery,"['binary search', 'brute force', 'greedy', 'math', 'two pointers']",2500.0,455.0
+1835,A,k-th equality,"['brute force', 'implementation', 'math']",1700.0,4352.0
+1834,F,Typewriter,['math'],2500.0,241.0
+1834,E,MEX of LCM,"['binary search', 'data structures', 'implementation', 'math', 'number theory']",2300.0,934.0
+1834,D,Survey in Class,"['brute force', 'data structures', 'greedy', 'implementation', 'sortings']",1900.0,2208.0
+1834,C,Game with Reversing,"['games', 'greedy', 'math', 'strings']",1200.0,7649.0
+1834,B,Maximum Strength,"['greedy', 'math']",1000.0,9451.0
+1834,A,Unit Array,"['greedy', 'math']",800.0,13191.0
+1833,G,Ksyusha and Chinchilla,"['constructive algorithms', 'dfs and similar', 'dp', 'dsu', 'greedy', 'implementation', 'trees']",1800.0,3263.0
+1833,F,Ira and Flamenco,"['combinatorics', 'constructive algorithms', 'data structures', 'implementation', 'math', 'sortings', 'two pointers']",1700.0,4653.0
+1833,E,Round Dance,"['dfs and similar', 'dsu', 'graphs', 'shortest paths']",1600.0,6928.0
+1833,D,Flipper,"['brute force', 'constructive algorithms', 'greedy']",1400.0,9841.0
+1833,C,Vlad Building Beautiful Array,"['greedy', 'math']",800.0,21541.0
+1833,B,Restore the Weather,"['greedy', 'sortings']",900.0,20211.0
+1833,A,Musical Puzzle,"['implementation', 'strings']",800.0,26291.0
+1832,F,Zombies,"['binary search', 'dp']",3200.0,182.0
+1832,E,Combinatorics Problem,"['brute force', 'combinatorics', 'dp']",2200.0,1591.0
+1832,D2,Red-Blue Operations (Hard Version),"['binary search', 'constructive algorithms', 'greedy', 'implementation', 'math']",2400.0,1388.0
+1832,D1,Red-Blue Operations (Easy Version),"['binary search', 'greedy', 'implementation', 'math']",2100.0,2201.0
+1832,C,Contrast Value,"['greedy', 'implementation']",1200.0,13079.0
+1832,B,Maximum Sum,"['brute force', 'sortings', 'two pointers']",1100.0,14621.0
+1832,A,New Palindrome,['strings'],800.0,20577.0
+1831,B,Array merging,"['constructive algorithms', 'greedy']",1000.0,13809.0
+1831,A,Twin Permutations,['constructive algorithms'],800.0,18798.0
+1830,F,The Third Grace,"['data structures', 'dp']",3200.0,73.0
+1830,E,Bully Sort,"['data structures', 'math']",3500.0,108.0
+1830,D,Mex Tree,"['brute force', 'dp', 'trees']",2800.0,356.0
+1830,C,Hyperregular Bracket Strings,"['combinatorics', 'greedy', 'hashing', 'math', 'number theory', 'sortings']",2400.0,1056.0
+1830,B,The BOSS Can Count Pairs,"['brute force', 'math']",2000.0,3324.0
+1830,A,Copil Copac Draws Trees,"['dfs and similar', 'dp', 'graphs', 'trees']",1400.0,8953.0
+1829,H,Don't Blame Me,"['bitmasks', 'combinatorics', 'dp', 'math']",1700.0,4452.0
+1829,G,Hits Different,"['data structures', 'dp', 'implementation', 'math']",1600.0,6118.0
+1829,F,Forever Winter,"['dfs and similar', 'graphs', 'math']",1300.0,11064.0
+1829,E,The Lakes,"['dfs and similar', 'dsu', 'graphs', 'implementation']",1100.0,12947.0
+1829,D,Gold Rush,"['brute force', 'dfs and similar', 'dp', 'implementation']",1000.0,17087.0
+1829,C,Mr. Perfectly Fine,"['bitmasks', 'greedy', 'implementation']",800.0,20662.0
+1829,B,Blank Space,['implementation'],800.0,27569.0
+1829,A,Love Story,"['implementation', 'strings']",800.0,30241.0
+1828,B,Permutation Swap,"['math', 'number theory']",900.0,15692.0
+1828,A,Divisible Array,"['constructive algorithms', 'math']",800.0,19309.0
+1827,F,Copium Permutation,"['constructive algorithms', 'data structures', 'greedy']",3500.0,72.0
+1827,E,Bus Routes,"['binary search', 'constructive algorithms', 'dfs and similar', 'greedy', 'trees']",3400.0,198.0
+1827,D,Two Centroids,"['data structures', 'dfs and similar', 'greedy', 'trees']",2800.0,446.0
+1827,C,Palindrome Partition,"['binary search', 'brute force', 'data structures', 'dp', 'hashing', 'strings']",2600.0,734.0
+1827,B2,Range Sorting (Hard Version),"['binary search', 'data structures', 'dp', 'greedy']",2400.0,1267.0
+1827,B1,Range Sorting (Easy Version),"['binary search', 'dp', 'dsu', 'greedy', 'trees', 'two pointers']",2000.0,2775.0
+1827,A,Counting Orders,"['combinatorics', 'math', 'sortings', 'two pointers']",1100.0,13713.0
+1826,F,Fading into Fog,"['geometry', 'interactive', 'math', 'probabilities']",2800.0,247.0
+1826,E,Walk the Runway,"['bitmasks', 'brute force', 'data structures', 'dp', 'graphs', 'implementation', 'sortings']",2400.0,1126.0
+1826,D,Running Miles,"['brute force', 'dp', 'greedy']",1700.0,5371.0
+1826,C,Dreaming of Freedom,"['greedy', 'math', 'number theory']",1300.0,9419.0
+1826,B,Lunatic Never Content,"['math', 'number theory']",1100.0,11744.0
+1826,A,Trust Nobody,"['brute force', 'greedy', 'implementation', 'sortings']",1200.0,11116.0
+1825,B,LuoTianyi and the Table,"['greedy', 'math']",1000.0,11816.0
+1825,A,LuoTianyi and the Palindrome String,"['greedy', 'strings']",800.0,16300.0
+1824,E,LuoTianyi and Cartridge,"['data structures', 'trees']",3500.0,87.0
+1824,D,LuoTianyi and the Function,['data structures'],3000.0,275.0
+1824,C,LuoTianyi and XOR-Tree,"['data structures', 'dfs and similar', 'dp', 'dsu', 'greedy', 'trees']",2500.0,852.0
+1824,B2,LuoTianyi and the Floating Islands (Hard Version),"['combinatorics', 'dfs and similar', 'math', 'probabilities', 'trees']",2300.0,1961.0
+1824,B1,LuoTianyi and the Floating Islands (Easy Version),"['combinatorics', 'math', 'probabilities', 'trees']",1800.0,3328.0
+1824,A,LuoTianyi and the Show,"['greedy', 'implementation']",1400.0,8525.0
+1823,F,Random Walk,"['dp', 'graphs', 'math', 'probabilities', 'trees']",2600.0,490.0
+1823,E,Removing Graph,"['brute force', 'dp', 'games', 'graphs', 'math']",2500.0,953.0
+1823,D,Unique Palindromes,"['constructive algorithms', 'math', 'strings']",1900.0,2878.0
+1823,C,Strongly Composite,"['greedy', 'math', 'number theory']",1300.0,9068.0
+1823,B,Sort with Step,"['brute force', 'math', 'sortings']",900.0,12363.0
+1823,A,A-characteristic,"['combinatorics', 'constructive algorithms', 'math']",800.0,13697.0
+1822,G2,Magic Triples (Hard Version),"['brute force', 'data structures', 'math', 'number theory']",2200.0,1649.0
+1822,G1,Magic Triples (Easy Version),"['brute force', 'data structures', 'math', 'number theory']",1700.0,4620.0
+1822,F,Gardening Friends,"['brute force', 'dfs and similar', 'dp', 'graphs', 'trees']",1700.0,3746.0
+1822,E,Making Anti-Palindromes,"['greedy', 'math', 'strings']",1600.0,6882.0
+1822,D,Super-Permutation,"['constructive algorithms', 'math']",1200.0,12244.0
+1822,C,Bun Lover,['math'],800.0,18571.0
+1822,B,Karina and Array,"['greedy', 'math', 'sortings']",800.0,19916.0
+1822,A,TubeTube Feed,"['brute force', 'implementation']",800.0,19986.0
+1821,F,Timber,"['combinatorics', 'dp', 'fft', 'math']",2600.0,523.0
+1821,E,Rearrange Brackets,"['brute force', 'dp', 'greedy', 'sortings', 'strings']",2100.0,1653.0
+1821,D,Black Cells,"['binary search', 'brute force', 'greedy', 'math']",1900.0,3722.0
+1821,C,Tear It Apart,"['brute force', 'implementation', 'math', 'strings']",1300.0,10388.0
+1821,B,Sort the Subarray,"['brute force', 'greedy']",1100.0,13428.0
+1821,A,Matching,"['combinatorics', 'math']",800.0,16610.0
+1820,B,JoJo's Incredible Adventures,"['math', 'strings', 'two pointers']",1100.0,10543.0
+1820,A,Yura's New Name,"['implementation', 'strings']",800.0,14065.0
+1819,F,"Willy-nilly, Crack, Into Release!","['data structures', 'dp']",3500.0,92.0
+1819,E,Roads in E City,"['interactive', 'math', 'probabilities', 'trees']",3200.0,167.0
+1819,D,Misha and Apples,"['brute force', 'data structures', 'dp', 'two pointers']",2800.0,461.0
+1819,C,The Fox and the Complete Tree Traversal,"['constructive algorithms', 'dp', 'implementation', 'math', 'trees']",2400.0,1079.0
+1819,B,The Butcher,"['geometry', 'greedy', 'implementation', 'sortings', 'two pointers']",1900.0,2692.0
+1819,A,Constructive Problem,"['brute force', 'greedy']",1300.0,9500.0
+1818,B,Indivisible,['constructive algorithms'],900.0,11027.0
+1818,A,Politics,"['greedy', 'implementation']",800.0,10987.0
+1817,F,Entangled Substrings,"['string suffix structures', 'strings']",3500.0,97.0
+1817,E,Half-sum,"['brute force', 'divide and conquer', 'greedy']",3400.0,161.0
+1817,D,Toy Machine,"['constructive algorithms', 'games', 'implementation']",2700.0,458.0
+1817,C,Similar Polynomials,"['combinatorics', 'math']",2400.0,742.0
+1817,B,Fish Graph,"['brute force', 'constructive algorithms', 'dfs and similar', 'graphs']",1900.0,2856.0
+1817,A,Almost Increasing Subsequence,"['binary search', 'data structures', 'greedy']",1500.0,7764.0
+1816,B,Grid Reconstruction,"['constructive algorithms', 'greedy']",1000.0,12575.0
+1816,A,Ian Visits Mary,"['constructive algorithms', 'geometry', 'number theory']",800.0,14982.0
+1815,F,OH NO1 (-2-3-4),"['constructive algorithms', 'graphs', 'math']",3500.0,144.0
+1815,E,Bosco and Particle,"['dp', 'math', 'number theory', 'strings']",3100.0,232.0
+1815,D,XOR Counting,"['bitmasks', 'combinatorics', 'dp', 'math']",2600.0,733.0
+1815,C,Between,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy']",2200.0,1450.0
+1815,B,Sum Graph,"['brute force', 'constructive algorithms', 'graphs', 'implementation', 'interactive', 'shortest paths', 'trees']",2000.0,2301.0
+1815,A,Ian and Array Sorting,"['greedy', 'math']",1300.0,10931.0
+1814,F,Communication Towers,"['brute force', 'divide and conquer', 'dsu']",2700.0,334.0
+1814,E,Chain Chips,"['data structures', 'dp', 'matrices']",2300.0,937.0
+1814,D,Balancing Weapons,"['binary search', 'brute force', 'data structures', 'math', 'two pointers']",2500.0,638.0
+1814,C,Search in Parallel,"['constructive algorithms', 'greedy', 'sortings']",1500.0,7966.0
+1814,B,Long Legs,"['brute force', 'math']",1700.0,7607.0
+1814,A,Coins,"['implementation', 'math']",800.0,20623.0
+1811,G2,Vlad and the Nice Paths (hard version),"['binary search', 'combinatorics', 'data structures', 'dp', 'math', 'two pointers']",2200.0,1149.0
+1811,G1,Vlad and the Nice Paths (easy version),"['combinatorics', 'dp', 'math']",2100.0,1387.0
+1811,F,Is It Flower?,"['dfs and similar', 'graphs', 'implementation']",2100.0,1267.0
+1811,E,Living Sequence,"['binary search', 'dp', 'math', 'number theory']",1500.0,8613.0
+1811,D,Umka and a Long Flight,"['constructive algorithms', 'implementation', 'math']",1600.0,5454.0
+1811,C,Restore the Array,"['constructive algorithms', 'greedy']",1100.0,15731.0
+1811,B,Conveyor Belts,"['implementation', 'math']",1000.0,16807.0
+1811,A,Insert Digit,"['greedy', 'math', 'strings']",800.0,25004.0
+1810,H,Last Number,"['combinatorics', 'math']",2900.0,86.0
+1810,G,The Maximum Prefix,['dp'],3200.0,275.0
+1810,F,M-tree,"['data structures', 'math', 'sortings', 'trees']",2800.0,420.0
+1810,E,Monsters,"['brute force', 'data structures', 'dfs and similar', 'dsu', 'graphs', 'greedy']",2100.0,2313.0
+1810,D,Climbing the Tree,"['binary search', 'math']",1700.0,5739.0
+1810,C,Make It Permutation,"['brute force', 'greedy', 'sortings']",1300.0,11263.0
+1810,B,Candies,"['constructive algorithms', 'math', 'number theory']",800.0,15442.0
+1810,A,Beautiful Sequence,"['brute force', 'greedy']",800.0,18335.0
+1809,G,Prediction,"['combinatorics', 'dp', 'math']",2800.0,273.0
+1809,F,Traveling in Berland,"['binary search', 'data structures', 'graphs', 'greedy', 'implementation']",2500.0,557.0
+1809,E,Two Tanks,"['binary search', 'dp', 'implementation', 'math']",2400.0,622.0
+1809,D,Binary String Sorting,"['constructive algorithms', 'greedy']",1800.0,4630.0
+1809,C,Sum on Subarrays,"['constructive algorithms', 'greedy', 'math']",1500.0,9421.0
+1809,B,Points on Plane,"['binary search', 'greedy', 'math']",1000.0,16366.0
+1809,A,Garland,['implementation'],800.0,21322.0
+1808,E3,Minibuses on Venus (hard version),"['brute force', 'combinatorics', 'dp', 'math']",2800.0,285.0
+1808,E2,Minibuses on Venus (medium version),"['combinatorics', 'divide and conquer', 'dp', 'matrices']",2500.0,459.0
+1808,E1,Minibuses on Venus (easy version),"['combinatorics', 'divide and conquer', 'dp']",2200.0,923.0
+1808,D,"Petya, Petya, Petr, and Palindromes","['binary search', 'brute force', 'data structures', 'two pointers']",2100.0,1718.0
+1808,C,Unlucky Numbers,"['brute force', 'dp', 'greedy', 'implementation']",1900.0,2826.0
+1808,B,Playing in a Casino,"['math', 'sortings']",1200.0,10708.0
+1808,A,Lucky Numbers,"['brute force', 'implementation']",900.0,14138.0
+1807,G2,Subsequence Addition (Hard Version),"['bitmasks', 'dp', 'greedy', 'implementation', 'sortings']",1100.0,14196.0
+1807,G1,Subsequence Addition (Easy Version),"['brute force', 'data structures', 'dp', 'greedy', 'implementation', 'sortings']",1100.0,14704.0
+1807,F,Bouncy Ball,"['brute force', 'dfs and similar', 'implementation']",1700.0,4486.0
+1807,E,Interview,"['binary search', 'implementation', 'interactive']",1300.0,9133.0
+1807,D,Odd Queries,"['data structures', 'implementation']",900.0,21224.0
+1807,C,Find and Replace,"['greedy', 'implementation', 'strings']",800.0,24380.0
+1807,B,Grab the Candies,['greedy'],800.0,31839.0
+1807,A,Plus or Minus,['implementation'],800.0,38121.0
+1806,F2,GCD Master (hard version),"['greedy', 'math', 'sortings']",2900.0,182.0
+1806,F1,GCD Master (easy version),"['greedy', 'math', 'number theory', 'sortings']",2900.0,227.0
+1806,E,Tree Master,"['brute force', 'data structures', 'dfs and similar', 'trees']",2200.0,2057.0
+1806,D,DSU Master,"['combinatorics', 'dp', 'dsu', 'math']",2500.0,647.0
+1806,C,Sequence Master,"['brute force', 'constructive algorithms', 'math']",1600.0,5898.0
+1806,B,Mex Master,"['constructive algorithms', 'greedy']",900.0,14718.0
+1806,A,Walking Master,"['geometry', 'greedy', 'math']",800.0,18706.0
+1805,F2,Survival of the Weakest (hard version),"['greedy', 'math', 'sortings', 'two pointers']",3100.0,235.0
+1805,F1,Survival of the Weakest (easy version),"['binary search', 'brute force', 'implementation', 'math', 'sortings']",2600.0,561.0
+1805,E,There Should Be a Lot of Maximums,"['brute force', 'data structures', 'dfs and similar', 'dp', 'trees', 'two pointers']",2300.0,1181.0
+1805,D,"A Wide, Wide Graph","['dfs and similar', 'dp', 'graphs', 'greedy', 'trees']",1800.0,4581.0
+1805,C,Place for a Selfie,"['binary search', 'data structures', 'geometry', 'math']",1400.0,9759.0
+1805,B,The String Has a Target,"['greedy', 'strings']",800.0,16327.0
+1805,A,We Need the Zero,"['bitmasks', 'brute force']",800.0,16768.0
+1804,H,Code Lock,"['bitmasks', 'dp']",3300.0,125.0
+1804,G,Flow Control,"['data structures', 'dsu', 'implementation']",3500.0,148.0
+1804,F,Approximate Diameter,"['binary search', 'divide and conquer', 'graphs', 'shortest paths']",2700.0,640.0
+1804,E,Routing,"['bitmasks', 'brute force', 'dfs and similar', 'dp', 'graphs']",2400.0,1149.0
+1804,D,Accommodation,"['brute force', 'dp', 'greedy', 'implementation']",2000.0,3769.0
+1804,C,Pull Your Luck,"['brute force', 'greedy', 'math', 'number theory']",1500.0,9519.0
+1804,B,Vaccination,"['greedy', 'implementation']",1000.0,12066.0
+1804,A,Lame King,"['greedy', 'math']",800.0,16400.0
+1802,B,Settlement of Guinea Pigs,"['greedy', 'implementation', 'math']",1000.0,11127.0
+1802,A,Likes,"['greedy', 'implementation']",800.0,14019.0
+1801,G,A task for substrings,"['data structures', 'string suffix structures', 'strings']",3400.0,144.0
+1801,F,Another n-dimensional chocolate bar,"['dp', 'math', 'meet-in-the-middle', 'number theory']",2700.0,410.0
+1801,E,Gasoline prices,"['data structures', 'divide and conquer', 'dsu', 'hashing', 'trees']",3000.0,275.0
+1801,D,The way home,"['binary search', 'data structures', 'dp', 'graphs', 'greedy', 'shortest paths', 'sortings']",2100.0,1455.0
+1801,C,Music Festival,"['binary search', 'data structures', 'dp', 'greedy', 'sortings']",1900.0,2423.0
+1801,B,Buying gifts,"['data structures', 'greedy', 'sortings']",1800.0,4569.0
+1801,A,The Very Beautiful Blanket,"['bitmasks', 'constructive algorithms']",1600.0,6718.0
+1800,G,Symmetree,"['dfs and similar', 'hashing', 'implementation', 'trees']",2200.0,1484.0
+1800,F,Dasha and Nightmares,"['bitmasks', 'hashing', 'meet-in-the-middle', 'strings']",1900.0,2809.0
+1800,E2,Unforgivable Curse (hard version),"['brute force', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'strings']",1500.0,9300.0
+1800,E1,Unforgivable Curse (easy version),"['brute force', 'constructive algorithms', 'dsu', 'graphs', 'greedy', 'strings']",1400.0,9534.0
+1800,D,Remove Two Letters,"['data structures', 'greedy', 'hashing', 'strings']",1200.0,16461.0
+1800,C2,Powering the Hero (hard version),"['data structures', 'greedy']",1100.0,17280.0
+1800,C1,Powering the Hero (easy version),"['data structures', 'greedy']",1000.0,18298.0
+1800,B,Count the Number of Pairs,"['greedy', 'strings']",1000.0,19875.0
+1800,A,Is It a Cat?,"['implementation', 'strings']",800.0,24706.0
+1799,H,Tree Cutting,"['bitmasks', 'dfs and similar', 'dp']",3200.0,175.0
+1799,G,Count Voting,"['combinatorics', 'dp', 'math']",2600.0,513.0
+1799,F,Halve or Subtract,"['binary search', 'brute force', 'dp', 'greedy', 'sortings']",2700.0,599.0
+1799,E,City Union,"['constructive algorithms', 'dfs and similar', 'dsu', 'geometry', 'greedy', 'implementation', 'math']",2300.0,962.0
+1799,D2,Hot Start Up (hard version),"['data structures', 'dp']",2100.0,1812.0
+1799,D1,Hot Start Up (easy version),['dp'],1900.0,3128.0
+1799,C,Double Lexicographically Minimum,"['greedy', 'strings']",1700.0,4394.0
+1799,B,Equalize by Divide,"['brute force', 'constructive algorithms', 'greedy', 'math']",1200.0,8941.0
+1799,A,Recent Actions,"['data structures', 'greedy', 'implementation', 'math']",800.0,10406.0
+1798,F,Gifts from Grandfather Ahmed,"['dp', 'math', 'number theory']",2500.0,349.0
+1798,E,Multitest Generator,"['brute force', 'dp']",2300.0,1225.0
+1798,D,Shocking Arrangement,"['constructive algorithms', 'greedy', 'math']",1600.0,7033.0
+1798,C,Candy Store,"['greedy', 'math', 'number theory']",1700.0,6511.0
+1798,B,Three Sevens,"['brute force', 'data structures', 'greedy', 'implementation']",1000.0,13644.0
+1798,A,Showstopper,"['greedy', 'implementation', 'sortings']",800.0,17606.0
+1797,F,Li Hua and Path,"['data structures', 'dfs and similar', 'divide and conquer', 'dsu', 'trees']",3000.0,195.0
+1797,E,Li Hua and Array,"['brute force', 'data structures', 'dsu', 'math', 'number theory', 'two pointers']",2300.0,888.0
+1797,D,Li Hua and Tree,"['brute force', 'data structures', 'dfs and similar', 'dp', 'implementation', 'trees']",1900.0,2794.0
+1797,C,Li Hua and Chess,"['constructive algorithms', 'greedy', 'interactive']",1600.0,5824.0
+1797,B,Li Hua and Pattern,"['constructive algorithms', 'greedy']",1100.0,11971.0
+1797,A,Li Hua and Maze,"['constructive algorithms', 'flows', 'graphs', 'greedy', 'implementation']",800.0,14734.0
+1796,F,Strange Triples,"['brute force', 'math', 'number theory']",2900.0,120.0
+1796,E,Colored Subgraphs,"['dfs and similar', 'dp', 'games', 'greedy', 'trees']",2500.0,516.0
+1796,D,Maximum Subarray,"['data structures', 'dp', 'greedy', 'two pointers']",2000.0,2940.0
+1796,C,Maximum Set,"['binary search', 'math']",1600.0,7680.0
+1796,B,Asterisk-Minor Template,"['implementation', 'strings']",1000.0,14059.0
+1796,A,Typical Interview Problem,"['brute force', 'implementation', 'strings']",800.0,16998.0
+1795,G,Removal Sequences,"['bitmasks', 'dfs and similar', 'graphs']",2700.0,526.0
+1795,F,Blocking Chips,"['binary search', 'constructive algorithms', 'dfs and similar', 'greedy', 'trees']",2400.0,860.0
+1795,E,Explosions?,"['binary search', 'data structures', 'dp', 'greedy', 'math']",2200.0,1603.0
+1795,D,Triangle Coloring,"['combinatorics', 'math']",1600.0,6863.0
+1795,C,Tea Tasting,"['binary search', 'data structures', 'implementation']",1500.0,9230.0
+1795,B,Ideal Point,"['brute force', 'geometry', 'greedy']",900.0,18516.0
+1795,A,Two Towers,"['brute force', 'implementation', 'strings']",800.0,21373.0
+1794,E,Labeling the Tree with Distances,"['data structures', 'dp', 'greedy', 'hashing', 'implementation', 'trees']",2400.0,760.0
+1794,D,Counting Factorizations,"['combinatorics', 'divide and conquer', 'dp', 'math', 'number theory']",1900.0,2739.0
+1794,C,Scoring Subsequences,"['binary search', 'greedy', 'math', 'two pointers']",1300.0,9900.0
+1794,B,Not Dividing,"['constructive algorithms', 'greedy', 'math']",900.0,15225.0
+1794,A,Prefix and Suffix Array,['strings'],800.0,14811.0
+1793,F,Rebrending,"['brute force', 'data structures', 'divide and conquer', 'implementation']",2600.0,1007.0
+1793,E,Velepin and Marketing,"['binary search', 'data structures', 'dp', 'greedy', 'sortings', 'two pointers']",2600.0,730.0
+1793,D,Moscow Gorillas,"['binary search', 'dp', 'greedy', 'implementation', 'math', 'two pointers']",1800.0,4744.0
+1793,C,Dora and Search,"['constructive algorithms', 'data structures', 'two pointers']",1200.0,13771.0
+1793,B,Fedya and Array,"['constructive algorithms', 'math']",1100.0,13461.0
+1793,A,Yet Another Promotion,"['greedy', 'math']",800.0,16335.0
+1792,F2,Graph Coloring (hard version),"['brute force', 'combinatorics', 'divide and conquer', 'dp', 'fft', 'graphs']",2900.0,300.0
+1792,F1,Graph Coloring (easy version),"['combinatorics', 'dp', 'graphs']",2700.0,517.0
+1792,E,Divisors and Table,"['brute force', 'dfs and similar', 'dp', 'number theory']",2400.0,1064.0
+1792,D,Fixed Prefix Permutations,"['binary search', 'bitmasks', 'data structures', 'hashing', 'math', 'sortings']",1700.0,4950.0
+1792,C,Min Max Sort,"['binary search', 'brute force', 'greedy', 'math', 'two pointers']",1500.0,10401.0
+1792,B,Stand-up Comedian,"['greedy', 'math']",1200.0,16731.0
+1792,A,GamingForces,"['greedy', 'sortings']",800.0,24440.0
+1791,G2,Teleporters (Hard Version),"['binary search', 'greedy', 'sortings']",1900.0,3472.0
+1791,G1,Teleporters (Easy Version),"['greedy', 'sortings']",1100.0,16638.0
+1791,F,Range Update Point Query,"['binary search', 'brute force', 'data structures']",1500.0,8869.0
+1791,E,Negatives and Positives,"['dp', 'greedy', 'sortings']",1100.0,20231.0
+1791,D,Distinct Split,"['brute force', 'greedy', 'strings']",1000.0,21171.0
+1791,C,Prepend and Append,"['implementation', 'two pointers']",800.0,32152.0
+1791,B,Following Directions,"['geometry', 'implementation']",800.0,34488.0
+1791,A,Codeforces Checking,"['implementation', 'strings']",800.0,40736.0
+1790,G,Tokens on Graph,"['constructive algorithms', 'dfs and similar', 'graphs', 'shortest paths']",2300.0,857.0
+1790,F,Timofey and Black-White Tree,"['brute force', 'dfs and similar', 'divide and conquer', 'graphs', 'greedy', 'math', 'shortest paths', 'trees']",2100.0,2538.0
+1790,E,Vlad and a Pair of Numbers,"['bitmasks', 'constructive algorithms']",1400.0,11337.0
+1790,D,Matryoshkas,"['data structures', 'greedy', 'sortings']",1200.0,14364.0
+1790,C,Premutation,"['brute force', 'implementation', 'math']",1000.0,19632.0
+1790,B,Taisia and Dice,"['greedy', 'greedy', 'math']",800.0,23978.0
+1790,A,Polycarp and the Day of Pi,"['implementation', 'math', 'strings']",800.0,30826.0
+1789,F,Serval and Brain Power,"['bitmasks', 'brute force', 'dp', 'greedy', 'implementation', 'strings']",2700.0,362.0
+1789,E,Serval and Music Game,"['brute force', 'dp', 'implementation', 'math', 'number theory']",2500.0,636.0
+1789,D,Serval and Shift-Shift-Shift,"['bitmasks', 'brute force', 'constructive algorithms', 'implementation']",2200.0,1326.0
+1789,C,Serval and Toxel's Arrays,"['combinatorics', 'dp', 'implementation', 'math']",1500.0,6606.0
+1789,B,Serval and Inversion Magic,"['brute force', 'implementation', 'strings', 'two pointers']",800.0,14151.0
+1789,A,Serval and Mocha's Array,"['brute force', 'math', 'number theory']",800.0,14484.0
+1788,F,"XOR, Tree, and Queries","['bitmasks', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'implementation', 'trees']",2500.0,622.0
+1788,E,Sum Over Zero,"['data structures', 'dfs and similar', 'dp']",2200.0,1989.0
+1788,D,Moving Dots,"['binary search', 'brute force', 'combinatorics', 'math', 'two pointers']",2000.0,3134.0
+1788,C,Matching Numbers,"['constructive algorithms', 'greedy', 'math']",1300.0,13550.0
+1788,B,Sum of Two Numbers,"['constructive algorithms', 'greedy', 'implementation', 'math', 'probabilities']",1100.0,16324.0
+1788,A,One and Two,"['brute force', 'implementation', 'math']",800.0,22950.0
+1787,I,Treasure Hunt,"['data structures', 'divide and conquer', 'two pointers']",3400.0,121.0
+1787,H,Codeforces Scoreboard,"['binary search', 'data structures', 'dp', 'geometry']",3300.0,150.0
+1787,G,Colorful Tree Again,"['brute force', 'data structures', 'trees']",3000.0,290.0
+1787,F,Inverse Transformation,"['constructive algorithms', 'implementation', 'math']",2500.0,556.0
+1787,E,The Harmonization of XOR,"['bitmasks', 'constructive algorithms', 'greedy', 'math']",2100.0,1856.0
+1787,D,Game on Axis,"['combinatorics', 'dfs and similar', 'dsu', 'graphs', 'implementation']",1900.0,2833.0
+1787,C,Remove the Bracket,"['dp', 'greedy', 'math']",1600.0,5567.0
+1787,B,Number Factorization,"['greedy', 'math', 'number theory']",1100.0,11331.0
+1787,A,Exponential Equation,"['constructive algorithms', 'math']",800.0,17433.0
+1786,B,Cake Assembly Line,"['brute force', 'sortings']",1300.0,7397.0
+1786,A2,Alternating Deck (hard version),['implementation'],800.0,10516.0
+1786,A1,Non-alternating Deck (easy version),['implementation'],800.0,12708.0
+1784,F,Minimums or Medians,[],3400.0,133.0
+1784,E,Infinite Game,"['brute force', 'combinatorics', 'dp', 'games', 'probabilities']",3100.0,209.0
+1784,D,Wooden Spoon,"['combinatorics', 'dp']",2400.0,758.0
+1784,C,Monsters (hard version),"['data structures', 'greedy']",2200.0,1274.0
+1784,B,Letter Exchange,['constructive algorithms'],1900.0,2839.0
+1784,A,Monsters (easy version),"['brute force', 'greedy']",1000.0,12485.0
+1783,G,Weighed Tree Radius,"['data structures', 'divide and conquer', 'implementation', 'trees']",2800.0,331.0
+1783,F,Double Sort II,"['dfs and similar', 'flows', 'graph matchings', 'graphs']",2500.0,716.0
+1783,E,Game of the Year,"['brute force', 'data structures', 'math', 'number theory']",2300.0,1751.0
+1783,D,Different Arrays,"['brute force', 'dp', 'implementation']",2000.0,3501.0
+1783,C,Yet Another Tournament,"['binary search', 'greedy', 'sortings']",1700.0,7528.0
+1783,B,Matrix of Differences,"['constructive algorithms', 'math']",1100.0,15685.0
+1783,A,Make it Beautiful,"['constructive algorithms', 'math', 'sortings']",800.0,23602.0
+1781,H2,Window Signals (hard version),[],3500.0,75.0
+1781,H1,Window Signals (easy version),[],3200.0,95.0
+1781,G,Diverse Coloring,"['constructive algorithms', 'trees']",3200.0,179.0
+1781,F,Bracket Insertion,"['combinatorics', 'dp', 'math', 'trees']",2700.0,593.0
+1781,E,Rectangle Shrinking,"['binary search', 'brute force', 'data structures', 'greedy', 'implementation', 'two pointers']",2300.0,1177.0
+1781,D,Many Perfect Squares,"['brute force', 'math', 'number theory']",1800.0,4475.0
+1781,C,Equal Frequencies,"['brute force', 'constructive algorithms', 'greedy', 'implementation', 'sortings', 'strings']",1600.0,5885.0
+1781,B,Going to the Cinema,"['brute force', 'greedy', 'sortings']",1000.0,12024.0
+1781,A,Parallel Projection,"['geometry', 'math']",800.0,14137.0
+1780,G,Delicious Dessert,"['binary search', 'dsu', 'hashing', 'math', 'number theory', 'string suffix structures']",2400.0,469.0
+1780,F,Three Chairs,"['bitmasks', 'brute force', 'combinatorics', 'data structures', 'dp', 'number theory', 'sortings']",2300.0,1101.0
+1780,E,Josuke and Complete Graph,"['binary search', 'brute force', 'data structures', 'math', 'number theory']",2400.0,1075.0
+1780,D,Bit Guessing Game,"['binary search', 'bitmasks', 'constructive algorithms', 'interactive']",1800.0,3875.0
+1780,B,GCD Partition,"['brute force', 'greedy', 'math', 'number theory']",1100.0,14032.0
+1780,A,Hayato and School,"['constructive algorithms', 'greedy']",800.0,19573.0
+1779,H,Olympic Team Building,"['brute force', 'meet-in-the-middle']",3500.0,115.0
+1779,G,The Game of the Century,"['constructive algorithms', 'graphs', 'shortest paths']",3000.0,257.0
+1779,F,Xorcerer's Stones,"['bitmasks', 'constructive algorithms', 'dp', 'trees']",2500.0,1071.0
+1779,E,Anya's Simultaneous Exhibition,"['constructive algorithms', 'graphs', 'greedy', 'interactive', 'sortings']",2400.0,1471.0
+1779,D,Boris and His Amazing Haircut,"['constructive algorithms', 'data structures', 'dp', 'dsu', 'greedy', 'sortings']",1700.0,6324.0
+1779,C,Least Prefix Sum,"['data structures', 'greedy']",1600.0,9992.0
+1779,B,MKnez's ConstructiveForces Task,"['constructive algorithms', 'math']",900.0,20748.0
+1779,A,Hall of Fame,"['constructive algorithms', 'greedy', 'strings']",800.0,21702.0
+1778,F,Maximizing Root,"['dfs and similar', 'dp', 'graphs', 'math', 'number theory', 'trees']",2600.0,436.0
+1778,E,The Tree Has Fallen!,"['bitmasks', 'dfs and similar', 'math', 'trees']",2500.0,682.0
+1778,D,Flexible String Revisit,"['combinatorics', 'dp', 'math', 'probabilities']",2100.0,2105.0
+1778,C,Flexible String,"['bitmasks', 'brute force', 'strings']",1600.0,6388.0
+1778,B,The Forbidden Permutation,"['greedy', 'math']",1300.0,11350.0
+1778,A,Flip Flop Sum,"['greedy', 'implementation']",800.0,21594.0
+1777,F,Comfortably Numb,"['bitmasks', 'data structures', 'divide and conquer', 'strings', 'trees']",2400.0,610.0
+1777,E,Edge Reverse,"['binary search', 'dfs and similar', 'graphs', 'trees']",2200.0,1307.0
+1777,D,Score of a Tree,"['bitmasks', 'combinatorics', 'dfs and similar', 'dp', 'math', 'probabilities', 'trees']",1900.0,2558.0
+1777,C,Quiz Master,"['binary search', 'math', 'number theory', 'sortings', 'two pointers']",1700.0,6088.0
+1777,B,Emordnilap,"['combinatorics', 'greedy', 'math']",900.0,14892.0
+1777,A,Everybody Likes Good Arrays!,"['greedy', 'math']",800.0,18112.0
+1776,N,Count Permutations,['math'],3500.0,29.0
+1776,M,Parmigiana With Seafood,"['binary search', 'dp', 'greedy', 'trees']",3000.0,222.0
+1776,L,Controllers,"['binary search', 'math']",1500.0,3648.0
+1776,K,Uniform Chemistry,"['dp', 'math']",3200.0,46.0
+1776,J,Italian Data Centers,"['graphs', 'shortest paths']",2500.0,471.0
+1776,I,Spinach Pizza,"['games', 'geometry', 'greedy', 'interactive']",2500.0,466.0
+1776,H,Beppa and SwerChat,['two pointers'],1300.0,4540.0
+1776,G,Another Wine Tasting Event,"['combinatorics', 'constructive algorithms', 'math', 'strings']",2100.0,1523.0
+1776,F,Train Splitting,"['constructive algorithms', 'graphs', 'greedy']",1700.0,2386.0
+1776,E,Crossing the Railways,"['data structures', 'dp']",3500.0,40.0
+1776,D,Teamwork,"['constructive algorithms', 'greedy', 'math']",2800.0,266.0
+1776,C,Library game,"['games', 'greedy', 'interactive', 'sortings']",2500.0,485.0
+1776,B,Vittorio Plays with LEGO Bricks,"['dp', 'geometry']",2200.0,987.0
+1776,A,Walking Boy,['greedy'],800.0,5707.0
+1775,F,Laboratory on Pluto,"['constructive algorithms', 'dp', 'greedy', 'math']",2500.0,632.0
+1775,E,The Human Equation,"['greedy', 'implementation']",2100.0,2552.0
+1775,D,Friendly Spiders,"['dfs and similar', 'graphs', 'math', 'number theory', 'shortest paths']",1800.0,4581.0
+1775,C,Interesting Sequence,"['bitmasks', 'math']",1600.0,7766.0
+1775,B,Gardener and the Array,"['bitmasks', 'constructive algorithms']",1300.0,10456.0
+1775,A2,Gardener and the Capybaras (hard version),"['constructive algorithms', 'greedy']",900.0,16954.0
+1775,A1,Gardener and the Capybaras (easy version),"['brute force', 'constructive algorithms', 'implementation']",800.0,18227.0
+1774,H,Maximum Permutation,['constructive algorithms'],3500.0,112.0
+1774,G,Segment Covering,"['brute force', 'combinatorics', 'constructive algorithms', 'data structures', 'dp', 'trees']",3200.0,252.0
+1774,F2,Magician and Pigs (Hard Version),"['binary search', 'brute force', 'data structures', 'implementation']",2700.0,510.0
+1774,F1,Magician and Pigs (Easy Version),"['brute force', 'data structures', 'implementation']",2400.0,896.0
+1774,E,Two Chess Pieces,"['dfs and similar', 'dp', 'greedy', 'trees']",1900.0,2817.0
+1774,D,Same Count One,"['brute force', 'constructive algorithms', 'greedy', 'implementation', 'two pointers']",1600.0,6211.0
+1774,C,Ice and Fire,"['constructive algorithms', 'dp', 'greedy']",1300.0,10129.0
+1774,B,Coloring,"['constructive algorithms', 'greedy', 'math']",1500.0,9598.0
+1774,A,Add Plus Minus Sign,"['constructive algorithms', 'math']",800.0,20683.0
+1773,L,Lisa's Sequences,['dp'],3500.0,20.0
+1773,K,King's Puzzle,['constructive algorithms'],1900.0,1117.0
+1773,J,Jumbled Trees,"['constructive algorithms', 'math']",2900.0,75.0
+1773,I,Interactive Factorial Guessing,"['brute force', 'games', 'implementation', 'interactive']",2500.0,377.0
+1773,H,Hot and Cold,"['binary search', 'interactive']",2600.0,251.0
+1773,G,Game of Questions,"['bitmasks', 'combinatorics', 'dp', 'fft', 'math', 'probabilities']",2800.0,216.0
+1773,F,Football,['constructive algorithms'],800.0,3356.0
+1773,E,Easy Assembly,"['greedy', 'sortings']",1400.0,3517.0
+1773,D,Dominoes,"['combinatorics', 'flows', 'graph matchings', 'greedy']",2600.0,302.0
+1773,C,Cactus Meets Torus,[],3500.0,22.0
+1773,B,BinCoin,"['binary search', 'divide and conquer', 'hashing', 'implementation', 'probabilities', 'trees']",2200.0,586.0
+1773,A,Amazing Trick,"['constructive algorithms', 'graph matchings', 'math', 'probabilities']",1900.0,1169.0
+1772,G,Gaining Rating,"['binary search', 'greedy', 'implementation', 'math', 'sortings', 'two pointers']",2200.0,1056.0
+1772,F,Copy of a Copy of a Copy,"['constructive algorithms', 'dfs and similar', 'graphs', 'implementation', 'sortings']",2000.0,1794.0
+1772,E,Permutation Game,['games'],1700.0,5231.0
+1772,D,Absolute Sorting,"['constructive algorithms', 'math']",1400.0,11291.0
+1772,C,Different Differences,"['constructive algorithms', 'greedy', 'math']",1000.0,19414.0
+1772,B,Matrix Rotation,"['brute force', 'implementation']",800.0,25060.0
+1772,A,A+B?,['implementation'],800.0,34157.0
+1771,F,Hossam and Range Minimum Query,"['binary search', 'bitmasks', 'data structures', 'hashing', 'probabilities', 'strings', 'trees']",2500.0,682.0
+1771,E,Hossam and a Letter,"['brute force', 'dp', 'implementation', 'two pointers']",2500.0,573.0
+1771,D,Hossam and (sub-)palindromic tree,"['brute force', 'data structures', 'dfs and similar', 'dp', 'strings', 'trees']",2100.0,2152.0
+1771,C,Hossam and Trainees,"['greedy', 'math', 'number theory']",1600.0,7065.0
+1771,B,Hossam and Friends,"['binary search', 'constructive algorithms', 'dp', 'two pointers']",1400.0,10244.0
+1771,A,Hossam and Combinatorics,"['combinatorics', 'math', 'sortings']",900.0,19237.0
+1770,H,"Koxia, Mahiru and Winter Festival",['constructive algorithms'],3500.0,67.0
+1770,G,Koxia and Bracket,"['divide and conquer', 'fft', 'math']",3400.0,123.0
+1770,F,Koxia and Sequence,"['bitmasks', 'combinatorics', 'dp', 'math', 'number theory']",3100.0,416.0
+1770,E,Koxia and Tree,"['combinatorics', 'dfs and similar', 'dp', 'dsu', 'math', 'probabilities', 'trees']",2400.0,1142.0
+1770,D,Koxia and Game,"['constructive algorithms', 'data structures', 'dfs and similar', 'dsu', 'flows', 'games', 'graph matchings', 'graphs', 'implementation']",2000.0,3243.0
+1770,C,Koxia and Number Theory,"['brute force', 'chinese remainder theorem', 'math', 'number theory']",1700.0,7350.0
+1770,B,Koxia and Permutation,['constructive algorithms'],1000.0,17407.0
+1770,A,Koxia and Whiteboards,"['brute force', 'greedy']",1000.0,20198.0
+1769,D3,Игра в Девятку III,"['*special problem', 'brute force']",2300.0,110.0
+1769,D2,Игра в Девятку II,"['*special problem', 'brute force']",2200.0,180.0
+1769,D1,Игра в Девятку I,"['*special problem', 'brute force', 'dp']",1800.0,332.0
+1769,C2,Подкрутка II,"['*special problem', 'dp']",1300.0,762.0
+1769,C1,Подкрутка I,"['*special problem', 'brute force', 'dp', 'greedy']",1200.0,794.0
+1769,B2,Копирование файлов II,"['*special problem', 'binary search', 'brute force', 'math']",1400.0,782.0
+1769,B1,Копирование файлов I,"['*special problem', 'brute force', 'implementation', 'math']",1000.0,1178.0
+1769,A,Узкая дорога,"['*special problem', 'math']",800.0,1702.0
+1768,F,Wonderful Jump,"['dp', 'greedy']",2900.0,559.0
+1768,E,Partial Sorting,"['combinatorics', 'math', 'number theory']",2300.0,1532.0
+1768,D,Lucky Permutation,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy']",1800.0,5583.0
+1768,C,Elemental Decompress,"['constructive algorithms', 'greedy', 'implementation', 'sortings']",1300.0,11733.0
+1768,B,Quick Sort,"['greedy', 'math']",900.0,19615.0
+1768,A,Greatest Convex,"['greedy', 'math', 'number theory']",800.0,25122.0
+1767,F,Two Subtrees,"['data structures', 'trees']",3100.0,116.0
+1767,E,Algebra Flash,"['bitmasks', 'brute force', 'dp', 'graphs', 'math', 'meet-in-the-middle', 'trees']",2500.0,629.0
+1767,D,Playoff,"['combinatorics', 'constructive algorithms', 'dp', 'greedy', 'math']",1500.0,8028.0
+1767,C,Count Binary Strings,"['data structures', 'dp']",2100.0,2095.0
+1767,B,Block Towers,"['data structures', 'greedy', 'sortings']",800.0,18040.0
+1767,A,Cut the Triangle,['implementation'],800.0,18900.0
+1766,F,MCF,['flows'],2800.0,193.0
+1766,E,Decomposition,"['binary search', 'brute force', 'data structures', 'divide and conquer', 'dp', 'two pointers']",2300.0,996.0
+1766,D,Lucky Chains,"['math', 'number theory']",1600.0,6563.0
+1766,C,Hamiltonian Wall,"['dp', 'implementation']",1300.0,11201.0
+1766,B,Notepad#,['implementation'],1000.0,17295.0
+1766,A,Extremely Round,"['brute force', 'implementation']",800.0,20305.0
+1765,N,Number Reduction,['greedy'],1500.0,3325.0
+1765,M,Minimum LCM,"['math', 'number theory']",1000.0,9116.0
+1765,L,Project Manager,"['brute force', 'data structures', 'implementation']",2400.0,464.0
+1765,K,Torus Path,"['greedy', 'math']",1500.0,4231.0
+1765,J,Hero to Zero,"['graph matchings', 'math']",2900.0,125.0
+1765,I,Infinite Chess,"['implementation', 'shortest paths']",2800.0,132.0
+1765,H,Hospital Queue,"['binary search', 'graphs', 'greedy', 'implementation']",2200.0,925.0
+1765,G,Guess the String,"['constructive algorithms', 'interactive', 'probabilities']",2600.0,282.0
+1765,F,Chemistry Lab,"['dp', 'geometry', 'probabilities']",2200.0,474.0
+1765,E,Exchange,"['brute force', 'math']",1000.0,7954.0
+1765,D,Watch the Videos,"['binary search', 'constructive algorithms', 'two pointers']",1700.0,3052.0
+1765,C,Card Guessing,"['combinatorics', 'dp', 'probabilities']",2600.0,245.0
+1765,B,Broken Keyboard,['greedy'],800.0,7832.0
+1765,A,Access Levels,"['bitmasks', 'dsu', 'flows', 'graph matchings']",2400.0,549.0
+1764,H,Doremy's Paint 2,['data structures'],3400.0,121.0
+1764,G3,Doremy's Perfect DS Class (Hard Version),"['binary search', 'interactive']",3300.0,276.0
+1764,G2,Doremy's Perfect DS Class (Medium Version),"['binary search', 'interactive']",3000.0,326.0
+1764,G1,Doremy's Perfect DS Class (Easy Version),"['binary search', 'interactive']",2900.0,375.0
+1764,F,Doremy's Experimental Tree,"['brute force', 'constructive algorithms', 'dfs and similar', 'dsu', 'sortings', 'trees']",2500.0,781.0
+1764,E,Doremy's Number Line,"['dp', 'greedy', 'sortings']",2400.0,1038.0
+1764,D,Doremy's Pegging Game,"['combinatorics', 'dp', 'math']",2000.0,2289.0
+1764,C,Doremy's City Construction,"['graphs', 'greedy']",1400.0,7689.0
+1764,B,Doremy's Perfect Math Class,"['math', 'number theory']",900.0,13412.0
+1764,A,Doremy's Paint,['greedy'],800.0,15063.0
+1763,F,Edge Queries,"['data structures', 'dfs and similar', 'dp', 'dsu', 'graphs', 'trees']",3000.0,295.0
+1763,E,Node Pairs,"['dp', 'graphs', 'math', 'number theory']",2200.0,1405.0
+1763,D,Valid Bitonic Permutations,"['combinatorics', 'dp', 'implementation', 'math', 'number theory']",2200.0,1711.0
+1763,C,Another Array Problem,"['brute force', 'constructive algorithms', 'greedy']",2000.0,5436.0
+1763,B,Incinerate,"['binary search', 'brute force', 'data structures', 'implementation', 'math', 'sortings']",1200.0,11819.0
+1763,A,Absolute Maximization,"['bitmasks', 'constructive algorithms', 'greedy', 'math']",800.0,14092.0
+1762,G,Unequal Adjacent Elements,"['constructive algorithms', 'sortings']",3100.0,71.0
+1762,F,Good Pairs,"['binary search', 'data structures', 'dp']",2600.0,351.0
+1762,E,Tree Sum,"['combinatorics', 'math', 'trees']",2600.0,454.0
+1762,D,GCD Queries,"['constructive algorithms', 'interactive', 'number theory']",2100.0,2736.0
+1762,C,Binary Strings are Fun,"['combinatorics', 'math']",1400.0,7642.0
+1762,B,Make Array Good,"['constructive algorithms', 'implementation', 'number theory', 'sortings']",1100.0,14361.0
+1762,A,Divide and Conquer,"['greedy', 'math', 'number theory']",800.0,17218.0
+1761,G,Centroid Guess,"['interactive', 'probabilities', 'trees']",3500.0,83.0
+1761,F2,Anti-median (Hard Version),"['combinatorics', 'dp', 'math']",3500.0,62.0
+1761,F1,Anti-median (Easy Version),"['dp', 'math']",3100.0,156.0
+1761,E,Make It Connected,"['binary search', 'brute force', 'constructive algorithms', 'dsu', 'graphs', 'greedy', 'matrices', 'trees', 'two pointers']",2400.0,1429.0
+1761,D,Carry Bit,"['combinatorics', 'math']",2100.0,1997.0
+1761,C,Set Construction,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy']",1400.0,7771.0
+1761,B,Elimination of a Ring,"['constructive algorithms', 'greedy', 'implementation']",1000.0,11615.0
+1761,A,Two Permutations,"['brute force', 'constructive algorithms']",800.0,14174.0
+1760,G,SlavicG's Favorite Problem,"['bitmasks', 'dfs and similar', 'graphs']",1700.0,5427.0
+1760,F,Quests,"['binary search', 'greedy', 'sortings']",1500.0,8741.0
+1760,E,Binary Inversions,"['data structures', 'greedy', 'math']",1100.0,15909.0
+1760,D,Challenging Valleys,"['implementation', 'two pointers']",1000.0,18642.0
+1760,C,Advantage,"['data structures', 'implementation', 'sortings']",800.0,29236.0
+1760,B,Atilla's Favorite Problem,"['greedy', 'implementation', 'strings']",800.0,34183.0
+1760,A,Medium Number,"['implementation', 'sortings']",800.0,39939.0
+1759,G,Restore the Permutation,"['binary search', 'constructive algorithms', 'data structures', 'greedy', 'math']",1900.0,3519.0
+1759,F,All Possible Digits,"['binary search', 'data structures', 'greedy', 'math', 'number theory']",1800.0,3009.0
+1759,E,The Humanoid,"['brute force', 'dp', 'sortings']",1500.0,7891.0
+1759,D,Make It Round,"['brute force', 'number theory']",1400.0,9524.0
+1759,C,Thermostat,"['greedy', 'math', 'shortest paths']",1100.0,14748.0
+1759,B,Lost Permutation,['math'],800.0,19466.0
+1759,A,Yes-Yes?,"['implementation', 'strings']",800.0,24989.0
+1758,F,Decent Division,"['constructive algorithms', 'data structures']",3000.0,123.0
+1758,E,"Tick, Tock","['combinatorics', 'dfs and similar', 'dsu', 'graphs']",2500.0,651.0
+1758,D,Range = √Sum,"['binary search', 'brute force', 'constructive algorithms', 'math', 'two pointers']",1800.0,5653.0
+1758,C,Almost All Multiples,"['greedy', 'number theory']",1400.0,10460.0
+1758,B,XOR = Average,['constructive algorithms'],900.0,17742.0
+1758,A,SSeeeeiinngg DDoouubbllee,"['constructive algorithms', 'strings']",800.0,22221.0
+1754,B,Kevin and Permutation,"['constructive algorithms', 'greedy', 'math']",800.0,17575.0
+1754,A,Technical Support,['greedy'],800.0,21129.0
+1753,F,Minecraft Series,"['brute force', 'two pointers']",3500.0,144.0
+1753,E,N Machines,"['binary search', 'brute force', 'greedy']",3300.0,263.0
+1753,D,The Beach,"['constructive algorithms', 'dfs and similar', 'graphs', 'shortest paths']",2400.0,1309.0
+1753,C,Wish I Knew How to Sort,"['dp', 'math', 'probabilities']",2000.0,3304.0
+1753,B,Factorial Divisibility,"['math', 'number theory']",1600.0,10167.0
+1753,A2,Make Nonzero Sum (hard version),"['constructive algorithms', 'dp', 'greedy']",1500.0,8509.0
+1753,A1,Make Nonzero Sum (easy version),"['constructive algorithms', 'dp', 'greedy']",1300.0,12609.0
+1750,H,BinaryStringForces,"['constructive algorithms', 'data structures', 'dp']",3500.0,58.0
+1750,G,Doping,"['combinatorics', 'dp', 'math']",3300.0,163.0
+1750,F,Majority,"['combinatorics', 'dp', 'math', 'strings']",2700.0,553.0
+1750,E,Bracket Cost,"['binary search', 'data structures', 'divide and conquer', 'dp', 'greedy', 'strings']",2400.0,1164.0
+1750,D,Count GCD,"['combinatorics', 'math', 'number theory']",1800.0,4648.0
+1750,C,Complementary XOR,"['constructive algorithms', 'implementation']",1400.0,8232.0
+1750,B,Maximum Substring,"['brute force', 'greedy', 'implementation']",800.0,15212.0
+1750,A,Indirect Sort,"['constructive algorithms', 'implementation', 'math']",800.0,15847.0
+1749,F,Distance to the Path,"['data structures', 'dfs and similar', 'trees']",2800.0,399.0
+1749,E,Cactus Wall,"['constructive algorithms', 'dfs and similar', 'graphs', 'shortest paths']",2400.0,1303.0
+1749,D,Counting Arrays,"['combinatorics', 'dp', 'math', 'number theory']",1900.0,4584.0
+1749,C,Number Game,"['binary search', 'data structures', 'games', 'greedy', 'implementation']",1400.0,11439.0
+1749,B,Death's Blessing,['greedy'],900.0,18576.0
+1749,A,Cowardly Rooks,"['greedy', 'implementation']",800.0,20897.0
+1748,F,Circular Xor Reversal,"['bitmasks', 'constructive algorithms']",3000.0,277.0
+1748,E,Yet Another Array Counting Problem,"['binary search', 'data structures', 'divide and conquer', 'dp', 'flows', 'math', 'trees']",2300.0,1408.0
+1748,D,ConstructOR,"['bitmasks', 'chinese remainder theorem', 'combinatorics', 'constructive algorithms', 'math', 'number theory']",2100.0,2339.0
+1748,C,Zero-Sum Prefixes,"['brute force', 'data structures', 'dp', 'greedy', 'implementation']",1600.0,8617.0
+1748,B,Diverse Substrings,"['brute force', 'implementation', 'strings']",1400.0,12246.0
+1748,A,The Ultimate Square,['math'],800.0,21888.0
+1747,E,List Generation,"['combinatorics', 'dp', 'math']",2900.0,420.0
+1747,D,Yet Another Problem,"['binary search', 'bitmasks', 'constructive algorithms', 'data structures']",1900.0,3927.0
+1747,C,Swap Game,['games'],1200.0,17136.0
+1747,B,BAN BAN,['constructive algorithms'],900.0,19341.0
+1747,A,Two Groups,"['constructive algorithms', 'greedy']",800.0,22690.0
+1746,G,Olympiad Training,"['binary search', 'data structures', 'dp', 'flows', 'geometry', 'implementation', 'sortings']",3500.0,80.0
+1746,F,Kazaee,"['data structures', 'hashing', 'probabilities']",2800.0,1121.0
+1746,E2,Joking (Hard Version),"['dp', 'interactive']",3200.0,284.0
+1746,E1,Joking (Easy Version),"['binary search', 'constructive algorithms', 'interactive', 'ternary search']",2500.0,1168.0
+1746,D,Paths on the Tree,"['dfs and similar', 'dp', 'greedy', 'sortings', 'trees']",1900.0,3948.0
+1746,C,Permutation Operations,"['constructive algorithms', 'greedy', 'implementation', 'math']",1300.0,10794.0
+1746,B,Rebellion,"['constructive algorithms', 'greedy', 'two pointers']",800.0,15680.0
+1746,A,Maxmina,"['constructive algorithms', 'greedy']",800.0,18564.0
+1744,F,MEX vs MED,"['math', 'two pointers']",2000.0,2273.0
+1744,E2,Divisible Numbers (hard version),"['brute force', 'math', 'number theory']",1900.0,4264.0
+1744,E1,Divisible Numbers (easy version),"['brute force', 'math', 'number theory']",1500.0,8333.0
+1744,D,Divisibility by 2^n,"['greedy', 'math', 'sortings']",1200.0,16420.0
+1744,C,Traffic Light,"['binary search', 'implementation', 'two pointers']",1000.0,19438.0
+1744,B,Even-Odd Increments,"['implementation', 'math']",800.0,20849.0
+1744,A,Number Replacement,"['greedy', 'implementation']",800.0,24013.0
+1743,G,Antifibonacci Cut,"['bitmasks', 'combinatorics', 'constructive algorithms', 'data structures', 'dp', 'hashing', 'math']",3000.0,203.0
+1743,F,Intersection and Union,"['data structures', 'dp', 'matrices', 'probabilities']",2300.0,1234.0
+1743,E,FTL,"['binary search', 'dp']",2400.0,1280.0
+1743,D,Problem with Random Tests,"['brute force', 'dp', 'greedy', 'probabilities']",1700.0,6430.0
+1743,C,Save the Magazines,"['constructive algorithms', 'dp', 'greedy']",1100.0,16840.0
+1743,B,Permutation Value,"['constructive algorithms', 'greedy']",800.0,20673.0
+1743,A,Password,"['brute force', 'combinatorics', 'implementation', 'math']",800.0,23959.0
+1742,G,Orray,"['bitmasks', 'brute force', 'greedy', 'math', 'sortings']",1500.0,7634.0
+1742,F,Smaller,"['constructive algorithms', 'greedy', 'strings']",1500.0,8688.0
+1742,E,Scuza,"['binary search', 'greedy', 'math']",1200.0,16600.0
+1742,D,Coprime,"['brute force', 'greedy', 'number theory']",1100.0,17384.0
+1742,C,Stripes,['implementation'],900.0,25768.0
+1742,B,Increasing,"['greedy', 'implementation', 'sortings']",800.0,36044.0
+1742,A,Sum,['implementation'],800.0,46232.0
+1741,G,Kirill and Company,"['bitmasks', 'brute force', 'dfs and similar', 'dp', 'flows', 'graphs', 'shortest paths']",2200.0,1164.0
+1741,F,Multi-Colored Segments,"['binary search', 'data structures', 'math', 'sortings']",2000.0,1848.0
+1741,E,Sending a Sequence Over the Network,['dp'],1600.0,8320.0
+1741,D,Masha and a Beautiful Tree,"['dfs and similar', 'divide and conquer', 'graphs', 'sortings', 'trees']",1300.0,12070.0
+1741,C,Minimize the Thickness,"['brute force', 'greedy', 'math', 'two pointers']",1100.0,15292.0
+1741,B,Funny Permutation,"['constructive algorithms', 'math']",800.0,22787.0
+1741,A,Compare T-Shirt Sizes,"['implementation', 'implementation', 'strings']",800.0,26843.0
+1740,I,Arranging Crystal Balls,"['data structures', 'divide and conquer', 'divide and conquer', 'dp', 'geometry', 'graphs', 'number theory']",3500.0,85.0
+1740,H,MEX Tree Manipulation,"['data structures', 'trees']",3300.0,139.0
+1740,G,Dangerous Laser Power,"['constructive algorithms', 'dsu', 'sortings']",3100.0,151.0
+1740,F,Conditional Mix,"['combinatorics', 'dp', 'math']",2600.0,616.0
+1740,E,Hanging Hearts,"['constructive algorithms', 'data structures', 'dfs and similar', 'dp', 'greedy', 'trees']",1800.0,3488.0
+1740,D,Knowledge Cards,"['constructive algorithms', 'data structures']",1500.0,6678.0
+1740,C,Bricks and Bags,"['constructive algorithms', 'games', 'greedy', 'sortings']",1400.0,9177.0
+1740,B,Jumbo Extra Cheese 2,"['geometry', 'greedy', 'sortings']",800.0,12879.0
+1740,A,Factorise N+M,"['constructive algorithms', 'number theory']",800.0,17718.0
+1739,F,Keyboard Design,"['bitmasks', 'data structures', 'dp', 'string suffix structures', 'strings']",2600.0,420.0
+1739,E,Cleaning Robot,"['bitmasks', 'dp']",2400.0,1024.0
+1739,D,Reset K Edges,"['binary search', 'data structures', 'dfs and similar', 'graphs', 'greedy', 'trees']",1900.0,4122.0
+1739,C,Card Game,"['combinatorics', 'constructive algorithms', 'dp', 'games']",1500.0,7719.0
+1739,B,Array Recovery,"['constructive algorithms', 'greedy', 'math']",1100.0,18636.0
+1739,A,Immobile Knight,['implementation'],800.0,21192.0
+1738,H,Palindrome Addicts,"['data structures', 'strings']",3300.0,191.0
+1738,G,Anti-Increasing Addicts,"['constructive algorithms', 'dp', 'greedy', 'math']",2900.0,312.0
+1738,F,Connectivity Addicts,"['constructive algorithms', 'dsu', 'graphs', 'greedy', 'interactive', 'shortest paths', 'trees']",2400.0,1020.0
+1738,E,Balance Addicts,"['combinatorics', 'dp', 'math', 'two pointers']",2300.0,1274.0
+1738,D,Permutation Addicts,"['constructive algorithms', 'data structures', 'dfs and similar', 'dsu', 'graphs', 'trees']",1900.0,3001.0
+1738,C,Even Number Addicts,"['dp', 'games', 'greedy', 'math']",1500.0,9086.0
+1738,B,Prefix Sum Addicts,"['constructive algorithms', 'greedy', 'math', 'sortings']",1200.0,12465.0
+1738,A,Glory Addicts,"['greedy', 'implementation', 'sortings']",800.0,12858.0
+1737,G,Ela Takes Dancing Class,"['binary search', 'data structures']",3500.0,86.0
+1737,F,Ela and Prime GCD,"['constructive algorithms', 'math', 'number theory']",3300.0,101.0
+1737,E,Ela Goes Hiking,"['combinatorics', 'dp', 'math', 'probabilities']",2500.0,796.0
+1737,D,Ela and the Wiring Wizard,"['brute force', 'dp', 'graphs', 'greedy', 'implementation', 'shortest paths']",2200.0,1675.0
+1737,C,Ela and Crickets,"['constructive algorithms', 'games', 'implementation', 'math']",1500.0,5009.0
+1737,B,Ela's Fitness and the Luxury Number,"['binary search', 'implementation', 'math']",1300.0,8281.0
+1737,A,Ela Sorting Books,"['greedy', 'implementation', 'strings']",900.0,9297.0
+1736,E,Swap and Take,"['dp', 'greedy']",2600.0,492.0
+1736,D,Equal Binary Subsequences,"['constructive algorithms', 'geometry', 'greedy', 'implementation', 'strings']",2200.0,2124.0
+1736,C2,Good Subarrays (Hard Version),"['binary search', 'data structures', 'dp', 'two pointers']",2400.0,1066.0
+1736,C1,Good Subarrays (Easy Version),"['binary search', 'data structures', 'schedules', 'two pointers']",1300.0,12531.0
+1736,B,Playing with GCD,"['math', 'number theory']",1200.0,14418.0
+1736,A,Make A Equal to B,"['brute force', 'greedy', 'sortings']",800.0,21039.0
+1735,F,Pebbles and Beads,"['data structures', 'geometry']",2900.0,171.0
+1735,E,House Planning,"['constructive algorithms', 'data structures', 'graph matchings', 'greedy']",2400.0,928.0
+1735,D,Meta-set,"['brute force', 'combinatorics', 'data structures', 'hashing', 'math']",1700.0,4723.0
+1735,C,Phase Shift,"['dfs and similar', 'dsu', 'graphs', 'greedy', 'implementation', 'strings']",1400.0,8543.0
+1735,B,Tea with Tangerines,"['greedy', 'math']",900.0,16402.0
+1735,A,Working Week,"['constructive algorithms', 'greedy', 'math']",800.0,19052.0
+1734,F,Zeros and Ones,"['bitmasks', 'divide and conquer', 'dp', 'math']",2500.0,628.0
+1734,E,Rectangular Congruence,"['constructive algorithms', 'number theory']",2100.0,2443.0
+1734,D,Slime Escape,"['data structures', 'dp', 'greedy', 'two pointers']",1800.0,5239.0
+1734,C,Removing Smallest Multiples,"['greedy', 'math']",1200.0,14259.0
+1734,B,"Bright, Nice, Brilliant",['constructive algorithms'],800.0,14931.0
+1734,A,Select Three Sticks,"['brute force', 'greedy', 'sortings']",800.0,19569.0
+1733,E,Conveyor,"['constructive algorithms', 'dp', 'math']",2700.0,941.0
+1733,D2,Zero-One (Hard Version),"['dp', 'greedy']",2000.0,3455.0
+1733,D1,Zero-One (Easy Version),"['constructive algorithms', 'greedy', 'math']",1400.0,10987.0
+1733,C,Parity Shuffle Sorting,"['constructive algorithms', 'sortings']",1300.0,13059.0
+1733,B,Rule of League,"['constructive algorithms', 'math']",900.0,17826.0
+1733,A,Consecutive Sum,"['greedy', 'sortings']",800.0,19715.0
+1732,E,Location,"['data structures', 'dp', 'math', 'number theory']",2800.0,332.0
+1732,D2,Balance (Hard version),"['brute force', 'data structures', 'number theory']",2400.0,1180.0
+1732,D1,Balance (Easy version),"['brute force', 'data structures', 'implementation', 'number theory']",1500.0,6952.0
+1732,C2,Sheikh (Hard Version),"['binary search', 'bitmasks', 'brute force', 'greedy', 'implementation', 'two pointers']",2100.0,2124.0
+1732,C1,Sheikh (Easy version),"['binary search', 'bitmasks', 'greedy', 'two pointers']",1800.0,4605.0
+1732,B,Ugu,"['brute force', 'dp', 'greedy', 'implementation']",900.0,12401.0
+1732,A,Bestie,"['brute force', 'combinatorics', 'constructive algorithms', 'implementation', 'math', 'number theory']",1000.0,12748.0
+1731,F,Function Sum,"['brute force', 'combinatorics', 'dp', 'fft', 'math']",2500.0,555.0
+1731,E,Graph Cost,"['dp', 'greedy', 'math', 'number theory']",2000.0,2229.0
+1731,D,Valiant's New Map,"['binary search', 'brute force', 'data structures', 'dp', 'two pointers']",1700.0,5631.0
+1731,C,Even Subarrays,"['bitmasks', 'brute force', 'hashing', 'math', 'number theory']",1700.0,7569.0
+1731,B,Kill Demodogs,"['greedy', 'math']",1100.0,14920.0
+1731,A,Joey Takes Money,"['greedy', 'math']",800.0,21065.0
+1730,F,Almost Sorted,"['bitmasks', 'data structures', 'dp']",2700.0,314.0
+1730,E,Maximums and Minimums,"['combinatorics', 'data structures', 'divide and conquer', 'number theory']",2700.0,507.0
+1730,D,Prefixes and Suffixes,"['constructive algorithms', 'strings', 'two pointers']",2200.0,2366.0
+1730,C,Minimum Notation,"['data structures', 'greedy', 'math', 'sortings']",1200.0,14077.0
+1730,B,Meeting on the Line,"['binary search', 'geometry', 'greedy', 'implementation', 'math', 'ternary search']",1600.0,10073.0
+1730,A,Planets,"['data structures', 'greedy', 'sortings']",800.0,21205.0
+1729,G,Cut Substrings,"['combinatorics', 'dp', 'hashing', 'strings', 'two pointers']",2100.0,1803.0
+1729,F,Kirei and the Linear Function,"['hashing', 'math']",1900.0,3546.0
+1729,E,Guess the Cycle Size,"['interactive', 'probabilities']",1800.0,5943.0
+1729,D,Friends and the Restaurant,"['greedy', 'sortings', 'two pointers']",1200.0,15668.0
+1729,C,Jumping on Tiles,"['constructive algorithms', 'strings']",1100.0,17274.0
+1729,B,Decode String,"['greedy', 'strings']",800.0,26781.0
+1729,A,Two Elevators,['math'],800.0,34414.0
+1728,G,Illumination,"['binary search', 'bitmasks', 'brute force', 'combinatorics', 'dp', 'math', 'two pointers']",2700.0,327.0
+1728,F,Fishermen,"['flows', 'graph matchings', 'greedy']",3100.0,300.0
+1728,E,Red-Black Pepper,"['brute force', 'data structures', 'greedy', 'math', 'number theory']",2300.0,1458.0
+1728,D,Letter Picking,"['constructive algorithms', 'dp', 'games', 'two pointers']",1800.0,5917.0
+1728,C,Digital Logarithm,"['data structures', 'greedy', 'sortings']",1400.0,12999.0
+1728,B,Best Permutation,"['constructive algorithms', 'greedy']",800.0,19153.0
+1728,A,Colored Balls: Revisited,"['brute force', 'greedy', 'implementation', 'sortings']",800.0,23333.0
+1726,H,Mainak and the Bleeding Polygon,"['binary search', 'geometry', 'implementation', 'math']",3500.0,68.0
+1726,G,A Certain Magical Party,"['combinatorics', 'data structures', 'greedy', 'sortings']",3300.0,195.0
+1726,F,Late For Work (submissions are not allowed),"['data structures', 'greedy', 'schedules', 'shortest paths']",2900.0,131.0
+1726,E,Almost Perfect,"['combinatorics', 'fft', 'math']",2400.0,1207.0
+1726,D,Edge Split,"['brute force', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs', 'probabilities', 'trees']",2000.0,3205.0
+1726,C,Jatayu's Balanced Bracket Sequence,"['data structures', 'dsu', 'graphs', 'greedy']",1300.0,10890.0
+1726,B,Mainak and Interesting Sequence,"['bitmasks', 'constructive algorithms', 'math']",1100.0,13647.0
+1726,A,Mainak and Array,"['greedy', 'math']",900.0,17397.0
+1725,M,Moving Both Hands,"['dp', 'graphs', 'shortest paths']",1800.0,2157.0
+1725,L,Lemper Cooking Competition,['data structures'],2400.0,675.0
+1725,K,Kingdom of Criticism,"['data structures', 'dsu']",2500.0,442.0
+1725,J,Journey,"['dp', 'trees']",2500.0,282.0
+1725,I,Imitating the Key Tree,"['combinatorics', 'dsu', 'trees']",2800.0,149.0
+1725,H,Hot Black Hot White,"['constructive algorithms', 'math']",1800.0,2077.0
+1725,G,Garage,"['binary search', 'geometry', 'math']",1500.0,4682.0
+1725,F,Field Photography,"['bitmasks', 'data structures', 'sortings']",2100.0,810.0
+1725,E,Electrical Efficiency,"['combinatorics', 'data structures', 'dp', 'math', 'number theory', 'trees']",2500.0,301.0
+1725,D,Deducing Sortability,"['binary search', 'bitmasks', 'math']",2900.0,106.0
+1725,C,Circular Mirror,"['binary search', 'combinatorics', 'geometry', 'math', 'two pointers']",2000.0,1243.0
+1725,B,Basketball Together,"['binary search', 'greedy', 'sortings']",1000.0,9077.0
+1725,A,Accumulation of Dominoes,['math'],800.0,8484.0
+1722,G,Even-Odd XOR,"['bitmasks', 'constructive algorithms', 'greedy']",1500.0,8137.0
+1722,F,L-shapes,"['dfs and similar', 'implementation']",1700.0,5597.0
+1722,E,Counting Rectangles,"['brute force', 'data structures', 'dp', 'implementation']",1600.0,8169.0
+1722,D,Line,"['greedy', 'sortings']",1100.0,19126.0
+1722,C,Word Game,"['data structures', 'implementation']",800.0,25437.0
+1722,B,Colourblindness,['implementation'],800.0,36161.0
+1722,A,Spell Check,['implementation'],800.0,37707.0
+1721,F,Matching Reduction,"['brute force', 'constructive algorithms', 'dfs and similar', 'flows', 'graph matchings', 'graphs', 'interactive']",2800.0,304.0
+1721,E,Prefix Function Queries,"['dfs and similar', 'dp', 'hashing', 'string suffix structures', 'strings', 'trees']",2200.0,1549.0
+1721,D,Maximum AND,"['bitmasks', 'dfs and similar', 'divide and conquer', 'greedy', 'sortings']",1800.0,5398.0
+1721,C,Min-Max Array Transformation,"['binary search', 'greedy', 'two pointers']",1400.0,11567.0
+1721,B,Deadly Laser,['implementation'],1000.0,19569.0
+1721,A,Image,"['greedy', 'implementation']",800.0,24927.0
+1720,E,Misha and Paintings,"['constructive algorithms', 'data structures', 'greedy', 'implementation', 'math']",2700.0,672.0
+1720,D2,Xor-Subsequence (hard version),"['bitmasks', 'data structures', 'dp', 'strings', 'trees']",2400.0,1527.0
+1720,D1,Xor-Subsequence (easy version),"['bitmasks', 'brute force', 'dp', 'strings', 'trees', 'two pointers']",1800.0,5068.0
+1720,C,Corners,"['greedy', 'implementation']",1200.0,14767.0
+1720,B,Interesting Sum,"['brute force', 'data structures', 'greedy', 'math', 'sortings']",800.0,19458.0
+1720,A,Burenka Plays with Fractions,"['math', 'number theory']",900.0,19824.0
+1719,C,Fighting Tournament,"['binary search', 'data structures', 'implementation', 'two pointers']",1400.0,11550.0
+1719,B,Mathematical Circus,"['constructive algorithms', 'math']",800.0,17678.0
+1719,A,Chip Game,"['games', 'math']",800.0,23642.0
+1718,F,"Burenka, an Array and Queries","['data structures', 'math', 'number theory']",3300.0,120.0
+1718,E,Impressionism,"['constructive algorithms', 'graphs', 'implementation', 'math']",3500.0,88.0
+1718,D,Permutation for Burenka,"['data structures', 'graph matchings', 'greedy', 'math', 'trees']",3300.0,207.0
+1718,C,Tonya and Burenka-179,"['data structures', 'greedy', 'math', 'number theory']",2400.0,1299.0
+1718,B,Fibonacci Strings,"['greedy', 'implementation', 'math', 'number theory']",2000.0,2519.0
+1718,A2,Burenka and Traditions (hard version),"['data structures', 'dp', 'greedy']",1900.0,4314.0
+1718,A1,Burenka and Traditions (easy version),"['dp', 'greedy']",1800.0,4803.0
+1717,F,Madoka and The First Session,"['constructive algorithms', 'flows', 'graph matchings', 'graphs', 'implementation']",2500.0,437.0
+1717,E,Madoka and The Best University,"['math', 'number theory']",2200.0,2100.0
+1717,D,Madoka and The Corruption Scheme,"['combinatorics', 'constructive algorithms', 'greedy', 'math']",1900.0,3850.0
+1717,C,Madoka and Formal Statement,['greedy'],1300.0,12547.0
+1717,B,Madoka and Underground Competitions,"['constructive algorithms', 'implementation']",1100.0,13651.0
+1717,A,Madoka and Strange Thoughts,"['math', 'number theory']",800.0,18235.0
+1716,F,Bags with Balls,"['combinatorics', 'dp', 'math', 'number theory']",2500.0,815.0
+1716,E,Swap and Maximum Block,"['bitmasks', 'data structures', 'dfs and similar', 'divide and conquer', 'dp']",2500.0,855.0
+1716,D,Chip Move,"['brute force', 'dp', 'math']",2000.0,4361.0
+1716,C,Robot in a Hallway,"['data structures', 'dp', 'greedy', 'implementation', 'ternary search']",2000.0,3685.0
+1716,B,Permutation Chain,"['constructive algorithms', 'math']",800.0,20610.0
+1716,A,2-3 Moves,"['greedy', 'math']",800.0,28860.0
+1715,F,Crop Squares,"['constructive algorithms', 'geometry', 'interactive', 'math']",2700.0,442.0
+1715,E,Long Way Home,"['data structures', 'divide and conquer', 'dp', 'geometry', 'graphs', 'greedy', 'shortest paths']",2400.0,1303.0
+1715,D,2+ doors,"['2-sat', 'bitmasks', 'graphs', 'greedy']",1900.0,4257.0
+1715,C,Monoblock,"['combinatorics', 'data structures', 'implementation', 'math']",1700.0,7561.0
+1715,B,Beautiful Array,"['constructive algorithms', 'greedy', 'math']",1000.0,17994.0
+1715,A,Crossmarket,"['constructive algorithms', 'greedy', 'math']",800.0,22250.0
+1714,G,Path Prefixes,"['binary search', 'data structures', 'dfs and similar', 'trees']",1700.0,5965.0
+1714,F,Build a Tree and That Is It,"['constructive algorithms', 'implementation', 'trees']",1900.0,2662.0
+1714,E,Add Modulo 10,"['brute force', 'math', 'number theory']",1400.0,12779.0
+1714,D,Color with Occurrences,"['brute force', 'data structures', 'dp', 'greedy', 'strings']",1600.0,7444.0
+1714,C,Minimum Varied Number,['greedy'],800.0,26860.0
+1714,B,Remove Prefix,"['data structures', 'greedy', 'implementation']",800.0,26038.0
+1714,A,Everyone Loves to Sleep,"['implementation', 'math']",900.0,25169.0
+1713,F,Lost Array,"['bitmasks', 'combinatorics', 'constructive algorithms', 'dp', 'math']",2900.0,408.0
+1713,E,Cross Swapping,"['2-sat', 'data structures', 'dsu', 'greedy', 'matrices']",2400.0,1351.0
+1713,D,Tournament Countdown,"['constructive algorithms', 'greedy', 'interactive', 'number theory', 'probabilities']",1800.0,5045.0
+1713,C,Build Permutation,"['constructive algorithms', 'dp', 'math']",1200.0,15068.0
+1713,B,Optimal Reduction,"['constructive algorithms', 'sortings']",1000.0,19150.0
+1713,A,Traveling Salesman Problem,"['geometry', 'greedy', 'implementation']",800.0,20770.0
+1712,F,Triameter,"['binary search', 'data structures', 'dfs and similar', 'trees']",3200.0,221.0
+1712,E2,LCM Sum (hard version),"['brute force', 'data structures', 'math', 'number theory', 'two pointers']",2500.0,1001.0
+1712,E1,LCM Sum (easy version),"['binary search', 'brute force', 'combinatorics', 'math', 'number theory', 'two pointers']",2300.0,1804.0
+1712,D,Empty Graph,"['binary search', 'constructive algorithms', 'data structures', 'greedy', 'shortest paths']",2000.0,3853.0
+1712,C,Sort Zero,"['greedy', 'sortings']",1100.0,17656.0
+1712,B,Woeful Permutation,"['constructive algorithms', 'greedy', 'number theory']",800.0,20450.0
+1712,A,Wonderful Permutation,"['greedy', 'implementation']",800.0,22793.0
+1711,B,Party,"['brute force', 'graphs']",1300.0,12142.0
+1711,A,Perfect Permutation,['constructive algorithms'],800.0,23607.0
+1710,E,Two Arrays,"['binary search', 'games', 'graph matchings']",2400.0,393.0
+1710,D,Recover the Tree,"['constructive algorithms', 'trees']",3400.0,355.0
+1710,C,XOR Triangle,"['bitmasks', 'brute force', 'constructive algorithms', 'dp', 'greedy', 'math']",2500.0,1125.0
+1710,B,Rain,"['binary search', 'brute force', 'data structures', 'geometry', 'greedy', 'implementation', 'math']",2100.0,2112.0
+1710,A,Color the Picture,"['constructive algorithms', 'greedy', 'math']",1500.0,9643.0
+1709,F,Multiset of Strings,"['bitmasks', 'brute force', 'dp', 'fft', 'flows', 'graphs', 'math', 'meet-in-the-middle', 'trees']",2500.0,475.0
+1709,E,XOR Tree,"['bitmasks', 'data structures', 'dfs and similar', 'dsu', 'greedy', 'trees']",2400.0,1874.0
+1709,D,Rorororobot,"['binary search', 'data structures', 'greedy', 'math']",1700.0,7169.0
+1709,C,Recover an RBS,"['constructive algorithms', 'greedy', 'implementation', 'strings']",1800.0,7676.0
+1709,B,Also Try Minecraft,"['data structures', 'dp', 'implementation']",900.0,20093.0
+1709,A,Three Doors,"['brute force', 'greedy', 'implementation', 'math']",800.0,26823.0
+1708,B,Difference of GCDs,"['constructive algorithms', 'math']",1100.0,17739.0
+1708,A,Difference Operations,"['greedy', 'math']",800.0,20670.0
+1707,F,Bugaboo,"['bitmasks', 'constructive algorithms', 'dp', 'number theory']",3500.0,119.0
+1707,E,Replace,"['binary search', 'data structures']",3500.0,402.0
+1707,D,Partial Virtual Trees,"['combinatorics', 'dfs and similar', 'dp', 'math', 'trees']",3000.0,461.0
+1707,C,DFS Trees,"['dfs and similar', 'dsu', 'graphs', 'greedy', 'sortings', 'trees']",2400.0,1161.0
+1707,B,Difference Array,"['brute force', 'data structures', 'implementation', 'sortings']",1900.0,4987.0
+1707,A,Doremy's IQ,"['binary search', 'constructive algorithms', 'greedy', 'implementation']",1600.0,11360.0
+1706,E,Qpwoeirut and Vertices,"['binary search', 'data structures', 'dfs and similar', 'divide and conquer', 'dsu', 'greedy', 'trees']",2300.0,1938.0
+1706,D2,Chopping Carrots (Hard Version),"['brute force', 'constructive algorithms', 'data structures', 'dp', 'greedy', 'math', 'number theory', 'two pointers']",2400.0,1456.0
+1706,D1,Chopping Carrots (Easy Version),"['binary search', 'brute force', 'constructive algorithms', 'greedy', 'number theory']",1700.0,6014.0
+1706,C,Qpwoeirut And The City,"['dp', 'flows', 'greedy', 'implementation']",1400.0,12968.0
+1706,B,Making Towers,"['dp', 'greedy', 'math']",1100.0,15335.0
+1706,A,Another String Minimization Problem,"['2-sat', 'constructive algorithms', 'greedy', 'string suffix structures', 'strings']",800.0,21624.0
+1705,F,Mark and the Online Exam,"['bitmasks', 'constructive algorithms', 'interactive', 'probabilities']",2900.0,488.0
+1705,E,Mark and Professor Koro,"['binary search', 'bitmasks', 'brute force', 'combinatorics', 'data structures', 'greedy']",2300.0,1737.0
+1705,D,Mark and Lightbulbs,"['combinatorics', 'constructive algorithms', 'greedy', 'math', 'sortings']",1800.0,5513.0
+1705,C,Mark and His Unfinished Essay,"['brute force', 'implementation']",1400.0,11873.0
+1705,B,Mark the Dust Sweeper,"['constructive algorithms', 'greedy', 'implementation']",900.0,20465.0
+1705,A,Mark the Photographer,"['greedy', 'sortings']",800.0,23472.0
+1704,H2,Game of AI (hard version),"['combinatorics', 'fft', 'math']",3500.0,61.0
+1704,H1,Game of AI (easy version),"['combinatorics', 'constructive algorithms', 'dp', 'fft', 'math']",3200.0,142.0
+1704,G,Mio and Lucky Array,"['constructive algorithms', 'fft', 'math', 'strings']",3500.0,80.0
+1704,F,Colouring Game,"['constructive algorithms', 'dp', 'games']",2600.0,728.0
+1704,E,Count Seconds,"['brute force', 'constructive algorithms', 'dp', 'graphs', 'implementation', 'math']",2200.0,2013.0
+1704,D,Magical Array,"['constructive algorithms', 'hashing', 'implementation', 'math']",1900.0,4452.0
+1704,C,Virus,"['greedy', 'implementation', 'sortings']",1200.0,12322.0
+1704,B,Luke is a Foodie,"['brute force', 'greedy', 'implementation']",1000.0,14426.0
+1704,A,Two 0-1 Sequences,"['constructive algorithms', 'greedy']",800.0,15190.0
+1703,G,"Good Key, Bad Key","['bitmasks', 'brute force', 'dp', 'greedy', 'math']",1600.0,8235.0
+1703,F,Yet Another Problem About Pairs Satisfying an Inequality,"['binary search', 'data structures', 'dp', 'greedy', 'sortings']",1300.0,14767.0
+1703,E,Mirror Grid,['implementation'],1200.0,14326.0
+1703,D,Double Strings,"['brute force', 'data structures', 'strings']",1100.0,20701.0
+1703,C,Cypher,"['brute force', 'implementation', 'strings']",800.0,30219.0
+1703,B,ICPC Balloons,"['data structures', 'implementation']",800.0,36743.0
+1703,A,YES or YES?,"['brute force', 'implementation', 'strings']",800.0,46850.0
+1702,G2,Passable Paths (hard version),"['data structures', 'dfs and similar', 'trees']",2000.0,3534.0
+1702,G1,Passable Paths (easy version),"['dfs and similar', 'trees']",1900.0,4316.0
+1702,F,Equate Multisets,"['constructive algorithms', 'data structures', 'greedy', 'math', 'number theory']",1700.0,6934.0
+1702,E,Split Into Two Sets,"['dfs and similar', 'dsu', 'graphs']",1600.0,10066.0
+1702,D,Not a Cheap String,['greedy'],1000.0,20527.0
+1702,C,Train and Queries,"['data structures', 'greedy']",1100.0,18905.0
+1702,B,Polycarp Writes a String from Memory,['greedy'],800.0,24849.0
+1702,A,Round Down the Price,['constructive algorithms'],800.0,30121.0
+1701,F,Points,"['combinatorics', 'data structures', 'implementation', 'math', 'matrices']",2500.0,766.0
+1701,E,Text Editor,"['brute force', 'dp', 'greedy', 'strings']",2500.0,978.0
+1701,D,Permutation Restoration,"['binary search', 'data structures', 'greedy', 'math', 'sortings', 'two pointers']",1900.0,5003.0
+1701,C,Schedule Management,"['binary search', 'greedy', 'implementation', 'two pointers']",1400.0,13619.0
+1701,B,Permutation,['greedy'],800.0,19346.0
+1701,A,Grass Field,['implementation'],800.0,24396.0
+1700,F,Puzzle,"['constructive algorithms', 'dp', 'greedy']",2600.0,718.0
+1700,E,Serega the Pirate,"['brute force', 'constructive algorithms']",2600.0,729.0
+1700,D,River Locks,"['binary search', 'dp', 'greedy', 'math']",1900.0,5194.0
+1700,C,Helping the Nature,"['constructive algorithms', 'data structures', 'greedy']",1700.0,9406.0
+1700,B,Palindromic Numbers,"['constructive algorithms', 'implementation', 'math']",1100.0,16877.0
+1700,A,Optimal Path,"['constructive algorithms', 'greedy', 'math']",800.0,21572.0
+1699,E,Three Days Grace,"['data structures', 'dp', 'greedy', 'math', 'number theory', 'two pointers']",2600.0,916.0
+1699,D,Almost Triple Deletions,"['data structures', 'dp', 'greedy']",2300.0,2771.0
+1699,C,The Third Problem,"['combinatorics', 'constructive algorithms', 'math']",1700.0,8547.0
+1699,B,Almost Ternary Matrix,"['bitmasks', 'constructive algorithms', 'matrices']",900.0,17778.0
+1699,A,The Third Three Number Problem,"['constructive algorithms', 'math']",800.0,22616.0
+1698,G,Long Binary String,"['bitmasks', 'math', 'matrices', 'meet-in-the-middle', 'number theory']",2900.0,252.0
+1698,F,Equal Reversal,"['constructive algorithms', 'graphs', 'implementation', 'math']",2800.0,479.0
+1698,E,PermutationForces II,"['brute force', 'combinatorics', 'greedy', 'sortings', 'trees', 'two pointers']",2300.0,1462.0
+1698,D,Fixed Point Guessing,"['binary search', 'constructive algorithms', 'interactive']",1600.0,7717.0
+1698,C,3SUM Closure,"['brute force', 'data structures']",1300.0,15971.0
+1698,B,Rising Sand,"['constructive algorithms', 'greedy', 'implementation']",800.0,20005.0
+1698,A,XOR Mixup,"['bitmasks', 'brute force']",800.0,25109.0
+1697,F,Too Many Constraints,"['2-sat', 'constructive algorithms', 'graphs', 'implementation']",2800.0,396.0
+1697,E,Coloring,"['brute force', 'combinatorics', 'constructive algorithms', 'dp', 'geometry', 'graphs', 'greedy', 'implementation', 'math']",2400.0,1050.0
+1697,D,Guess The String,"['binary search', 'constructive algorithms', 'interactive']",1900.0,3860.0
+1697,C,awoo's Favorite Problem,"['binary search', 'constructive algorithms', 'data structures', 'greedy', 'implementation', 'strings', 'two pointers']",1400.0,12593.0
+1697,B,Promo,"['greedy', 'sortings']",900.0,22311.0
+1697,A,Parkway Walk,"['greedy', 'implementation']",800.0,24281.0
+1696,H,Maximum Product?,"['brute force', 'combinatorics', 'dp', 'greedy', 'implementation', 'math', 'two pointers']",3500.0,111.0
+1696,G,Fishingprince Plays With Array Again,"['brute force', 'data structures', 'geometry', 'math']",3300.0,201.0
+1696,F,Tree Recovery,"['brute force', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs', 'trees']",2600.0,763.0
+1696,E,Placing Jinas,"['combinatorics', 'math']",2000.0,3397.0
+1696,D,Permutation Graph,"['binary search', 'constructive algorithms', 'data structures', 'divide and conquer', 'greedy', 'shortest paths']",1900.0,4721.0
+1696,C,Fishingprince Plays With Array,"['constructive algorithms', 'greedy', 'implementation', 'math']",1400.0,10477.0
+1696,B,NIT Destroys the Universe,['greedy'],900.0,17190.0
+1696,A,NIT orz!,"['bitmasks', 'greedy']",800.0,17182.0
+1695,E,Ambiguous Dominoes,"['constructive algorithms', 'dfs and similar', 'graphs']",2700.0,371.0
+1695,D2,Tree Queries (Hard Version),"['constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'trees']",2300.0,1686.0
+1695,D1,Tree Queries (Easy Version),"['brute force', 'constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'trees']",2200.0,1850.0
+1695,C,Zero Path,"['brute force', 'data structures', 'dp', 'graphs', 'greedy', 'shortest paths']",1700.0,9061.0
+1695,B,Circle Game,"['games', 'greedy']",1000.0,16847.0
+1695,A,Subrectangle Guess,['games'],800.0,15566.0
+1694,B,Paranoid String,"['constructive algorithms', 'greedy']",1200.0,16780.0
+1694,A,Creep,"['greedy', 'implementation']",800.0,21157.0
+1693,F,I Might Be Wrong,"['binary search', 'greedy', 'two pointers']",3400.0,222.0
+1693,E,Outermost Maximums,"['data structures', 'greedy']",3400.0,263.0
+1693,D,Decinc Dividing,"['brute force', 'data structures', 'divide and conquer', 'dp', 'greedy']",2800.0,628.0
+1693,C,Keshi in Search of AmShZ,"['graphs', 'greedy', 'shortest paths']",2300.0,2054.0
+1693,B,Fake Plastic Trees,"['dfs and similar', 'dp', 'greedy', 'trees']",1700.0,7133.0
+1693,A,Directional Increase,['greedy'],1300.0,14218.0
+1692,H,Gambling,"['data structures', 'dp', 'greedy', 'math']",1700.0,5945.0
+1692,G,2^Sort,"['data structures', 'dp', 'sortings', 'two pointers']",1400.0,12820.0
+1692,F,3SUM,"['brute force', 'math']",1300.0,16936.0
+1692,E,Binary Deque,"['binary search', 'implementation', 'two pointers']",1200.0,16193.0
+1692,D,The Clock,"['brute force', 'implementation']",1100.0,16664.0
+1692,C,Where's the Bishop?,['implementation'],800.0,28496.0
+1692,B,All Distinct,"['greedy', 'sortings']",800.0,28715.0
+1692,A,Marathon,['implementation'],800.0,45699.0
+1691,F,K-Set Tree,"['combinatorics', 'dfs and similar', 'dp', 'math', 'trees']",2500.0,785.0
+1691,E,Number of Groups,"['data structures', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'sortings']",2300.0,1553.0
+1691,D,Max GEQ Sum,"['binary search', 'constructive algorithms', 'data structures', 'divide and conquer', 'implementation', 'two pointers']",1800.0,4693.0
+1691,C,Sum of Substrings,"['brute force', 'constructive algorithms', 'greedy', 'math', 'strings']",1400.0,13672.0
+1691,B,Shoe Shuffling,"['constructive algorithms', 'greedy', 'implementation', 'two pointers']",1000.0,19114.0
+1691,A,Beat The Odds,"['brute force', 'greedy', 'math']",800.0,27325.0
+1690,G,Count the Trains,"['binary search', 'data structures', 'greedy', 'sortings']",2000.0,2763.0
+1690,F,Shifting String,"['graphs', 'math', 'number theory', 'strings']",1700.0,5921.0
+1690,E,Price Maximization,"['binary search', 'greedy', 'math', 'two pointers']",1500.0,12581.0
+1690,D,Black and White Stripe,"['implementation', 'two pointers']",1000.0,21986.0
+1690,C,Restoring the Duration of Tasks,"['data structures', 'greedy', 'implementation']",800.0,23602.0
+1690,B,Array Decrements,"['greedy', 'implementation']",800.0,23102.0
+1690,A,Print a Pedestal (Codeforces logo?),"['constructive algorithms', 'greedy']",800.0,30170.0
+1689,E,ANDfinity,"['bitmasks', 'brute force', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs']",2500.0,1024.0
+1689,D,Lena and Matrix,"['data structures', 'dp', 'geometry', 'shortest paths']",1900.0,3605.0
+1689,C,Infected Tree,"['dfs and similar', 'dp', 'trees']",1600.0,8846.0
+1689,B,Mystic Permutation,"['data structures', 'greedy']",900.0,15923.0
+1689,A,Lex String,"['brute force', 'greedy', 'implementation', 'sortings', 'two pointers']",800.0,15623.0
+1688,C,Manipulating History,"['constructive algorithms', 'greedy', 'strings']",1700.0,7258.0
+1688,B,Patchouli's Magical Talisman,"['bitmasks', 'constructive algorithms', 'greedy', 'sortings']",800.0,17021.0
+1688,A,Cirno's Perfect Bitmasks Classroom,"['bitmasks', 'brute force']",800.0,19018.0
+1687,F,Koishi's Unconscious Permutation,"['fft', 'math']",3500.0,67.0
+1687,E,Become Big For Me,"['combinatorics', 'constructive algorithms', 'greedy', 'math', 'number theory']",3500.0,180.0
+1687,D,Cute number,"['binary search', 'brute force', 'data structures', 'dsu', 'implementation', 'math']",2900.0,471.0
+1687,C,Sanae and Giant Robot,"['binary search', 'brute force', 'data structures', 'dsu', 'greedy', 'sortings']",2500.0,1198.0
+1687,B,Railway System,"['constructive algorithms', 'graphs', 'greedy', 'interactive', 'sortings']",1700.0,3136.0
+1687,A,The Enchanted Forest,"['brute force', 'greedy']",1600.0,8931.0
+1686,B,Odd Subarrays,"['dp', 'greedy']",800.0,17039.0
+1686,A,Everything Everywhere All But One,['greedy'],800.0,19565.0
+1685,E,The Ultimate LIS Problem,"['data structures', 'greedy']",3500.0,106.0
+1685,D2,Permutation Weight (Hard Version),"['constructive algorithms', 'greedy']",3500.0,83.0
+1685,D1,Permutation Weight (Easy Version),"['constructive algorithms', 'dfs and similar', 'dsu']",2800.0,371.0
+1685,C,Bring Balance,"['brute force', 'constructive algorithms', 'greedy']",2600.0,767.0
+1685,B,Linguistics,"['greedy', 'implementation', 'sortings', 'strings']",2000.0,2836.0
+1685,A,Circular Local MiniMax,"['constructive algorithms', 'greedy', 'sortings']",1100.0,15428.0
+1684,H,Hard Cut,"['constructive algorithms', 'dfs and similar', 'divide and conquer', 'math']",3400.0,203.0
+1684,G,Euclid Guess,"['constructive algorithms', 'flows', 'graph matchings', 'math', 'number theory']",2800.0,485.0
+1684,F,Diverse Segments,"['data structures', 'two pointers']",2600.0,751.0
+1684,E,MEX vs DIFF,"['binary search', 'brute force', 'constructive algorithms', 'data structures', 'greedy', 'two pointers']",2100.0,2744.0
+1684,D,Traps,"['constructive algorithms', 'greedy', 'sortings']",1700.0,8361.0
+1684,C,Column Swapping,"['brute force', 'constructive algorithms', 'greedy', 'implementation', 'sortings']",1400.0,11032.0
+1684,B,Z mod X = C,"['constructive algorithms', 'math']",800.0,19614.0
+1684,A,Digit Minimization,"['constructive algorithms', 'games', 'math', 'strings']",800.0,22249.0
+1682,F,MCMF?,"['data structures', 'flows', 'graphs', 'greedy', 'sortings', 'two pointers']",2700.0,244.0
+1682,E,Unordered Swaps,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy', 'math', 'sortings', 'trees']",2700.0,475.0
+1682,D,Circular Spanning Tree,"['constructive algorithms', 'implementation', 'trees']",2000.0,2863.0
+1682,C,LIS or Reverse LIS?,"['constructive algorithms', 'greedy', 'implementation', 'math']",1400.0,12675.0
+1682,B,AND Sorting,"['bitmasks', 'constructive algorithms', 'sortings']",1100.0,15351.0
+1682,A,Palindromic Indices,"['greedy', 'strings']",800.0,18323.0
+1681,F,Unique Occurrences,"['data structures', 'dfs and similar', 'divide and conquer', 'dp', 'dsu', 'trees']",2300.0,1208.0
+1681,E,Labyrinth Adventures,"['data structures', 'dp', 'matrices', 'shortest paths']",2600.0,581.0
+1681,D,Required Length,"['brute force', 'dfs and similar', 'dp', 'hashing', 'shortest paths']",1700.0,8200.0
+1681,C,Double Sort,"['implementation', 'sortings']",1200.0,15386.0
+1681,B,Card Trick,"['implementation', 'math']",800.0,18952.0
+1681,A,Game with Cards,"['games', 'greedy']",800.0,20008.0
+1680,F,Lenient Vertex Cover,"['dfs and similar', 'divide and conquer', 'dsu', 'graphs', 'trees']",2600.0,429.0
+1680,E,Moving Chips,"['bitmasks', 'dp', 'greedy']",2000.0,3240.0
+1680,D,Dog Walking,"['brute force', 'greedy', 'math']",2400.0,978.0
+1680,C,Binary String,"['binary search', 'greedy', 'strings', 'two pointers']",1600.0,8265.0
+1680,B,Robots,['implementation'],800.0,17417.0
+1680,A,Minimums and Maximums,"['brute force', 'math']",800.0,20092.0
+1679,F,Formalism for Formalism,"['bitmasks', 'dp', 'math']",2600.0,400.0
+1679,E,Typical Party in Dorm,"['bitmasks', 'combinatorics', 'dp', 'strings']",2400.0,955.0
+1679,D,Toss a Coin to Your Graph...,"['binary search', 'dfs and similar', 'dp', 'graphs']",1900.0,3837.0
+1679,C,Rooks Defenders,"['data structures', 'implementation']",1400.0,8971.0
+1679,B,Stone Age Problem,"['data structures', 'implementation']",1200.0,14785.0
+1679,A,AvtoBus,"['brute force', 'greedy', 'math', 'number theory']",900.0,18990.0
+1678,B2,Tokitsukaze and Good 01-String (hard version),"['dp', 'greedy', 'implementation']",1800.0,5792.0
+1678,B1,Tokitsukaze and Good 01-String (easy version),['implementation'],800.0,15064.0
+1678,A,Tokitsukaze and All Zero Sequence,['implementation'],800.0,17304.0
+1677,F,Tokitsukaze and Gems,"['dp', 'math']",3500.0,78.0
+1677,E,Tokitsukaze and Beautiful Subsegments,['data structures'],2900.0,396.0
+1677,D,Tokitsukaze and Permutations,"['dp', 'math']",2500.0,1001.0
+1677,C,Tokitsukaze and Two Colorful Tapes,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy']",1900.0,2940.0
+1677,B,Tokitsukaze and Meeting,"['data structures', 'implementation', 'math']",1700.0,3546.0
+1677,A,Tokitsukaze and Strange Inequality,"['brute force', 'data structures', 'dp']",1600.0,7272.0
+1676,H2,Maximum Crossings (Hard Version),"['data structures', 'divide and conquer', 'sortings']",1500.0,8370.0
+1676,H1,Maximum Crossings (Easy Version),['brute force'],1400.0,11311.0
+1676,G,White-Black Balanced Subtrees,"['dfs and similar', 'dp', 'graphs', 'trees']",1300.0,11380.0
+1676,F,Longest Strike,"['data structures', 'greedy', 'implementation', 'sortings', 'two pointers']",1300.0,13407.0
+1676,E,Eating Queries,"['binary search', 'greedy', 'sortings']",1100.0,20356.0
+1676,D,X-Sum,"['brute force', 'greedy', 'implementation']",1000.0,20709.0
+1676,C,Most Similar Words,"['brute force', 'greedy', 'implementation', 'implementation', 'math', 'strings']",800.0,25315.0
+1676,B,Equal Candies,"['greedy', 'math', 'sortings']",800.0,36870.0
+1676,A,Lucky?,['implementation'],800.0,44078.0
+1675,G,Sorting Pancakes,['dp'],2300.0,1353.0
+1675,F,Vlad and Unfinished Business,"['dfs and similar', 'dp', 'greedy', 'trees']",1800.0,4236.0
+1675,E,"Replace With the Previous, Minimize","['dsu', 'greedy', 'strings']",1500.0,8756.0
+1675,D,Vertical Paths,"['graphs', 'implementation', 'trees']",1300.0,11029.0
+1675,C,Detective Task,['implementation'],1100.0,16200.0
+1675,B,Make It Increasing,"['greedy', 'implementation']",900.0,21194.0
+1675,A,Food for Animals,"['greedy', 'math']",800.0,28128.0
+1674,G,Remove Directed Edges,"['dfs and similar', 'dp', 'graphs']",2000.0,2064.0
+1674,F,Desktop Rearrangement,"['data structures', 'greedy', 'implementation']",1800.0,4328.0
+1674,E,Breaking the Wall,"['binary search', 'brute force', 'constructive algorithms', 'greedy', 'math']",2000.0,5367.0
+1674,D,A-B-C Sort,"['constructive algorithms', 'implementation', 'sortings']",1200.0,14073.0
+1674,C,Infinite Replacement,"['combinatorics', 'implementation', 'strings']",1000.0,20503.0
+1674,B,Dictionary,"['combinatorics', 'math']",800.0,23345.0
+1674,A,Number Transformation,"['constructive algorithms', 'math']",800.0,23605.0
+1673,F,Anti-Theft Road Planning,"['bitmasks', 'constructive algorithms', 'divide and conquer', 'greedy', 'interactive', 'math']",2400.0,682.0
+1673,E,Power or XOR?,"['bitmasks', 'combinatorics', 'math', 'number theory']",2500.0,586.0
+1673,D,Lost Arithmetic Progression,"['combinatorics', 'math', 'number theory']",1900.0,2914.0
+1673,C,Palindrome Basis,"['brute force', 'dp', 'math', 'number theory']",1500.0,10012.0
+1673,B,A Perfectly Balanced String?,"['brute force', 'greedy', 'strings']",1100.0,13185.0
+1673,A,Subtle Substring Subtraction,"['games', 'greedy', 'strings']",800.0,17588.0
+1672,I,PermutationForces,"['data structures', 'greedy']",3000.0,113.0
+1672,H,Zigu Zagu,"['constructive algorithms', 'data structures', 'greedy']",2700.0,792.0
+1672,G,Cross Xor,"['constructive algorithms', 'graphs', 'math', 'matrices']",3200.0,242.0
+1672,F2,Checker for Array Shuffling,"['constructive algorithms', 'dfs and similar', 'graphs']",2800.0,664.0
+1672,F1,Array Shuffling,"['constructive algorithms', 'graphs', 'greedy']",2000.0,2671.0
+1672,E,notepad.exe,"['binary search', 'constructive algorithms', 'greedy', 'interactive']",2200.0,1926.0
+1672,D,Cyclic Rotation,"['constructive algorithms', 'greedy', 'implementation', 'two pointers']",1700.0,5443.0
+1672,C,Unequal Array,"['constructive algorithms', 'greedy', 'implementation']",1100.0,12166.0
+1672,B,I love AAAB,"['constructive algorithms', 'implementation']",800.0,14841.0
+1672,A,Log Chopping,"['games', 'implementation', 'math']",800.0,15232.0
+1671,F,Permutation Counting,"['brute force', 'combinatorics', 'dp', 'fft', 'math']",2700.0,272.0
+1671,E,Preorder,"['combinatorics', 'divide and conquer', 'dp', 'dsu', 'hashing', 'sortings', 'trees']",2100.0,2390.0
+1671,D,Insert a Progression,"['brute force', 'constructive algorithms', 'greedy']",1600.0,6480.0
+1671,C,Dolce Vita,"['binary search', 'brute force', 'greedy', 'math']",1200.0,14045.0
+1671,B,Consecutive Points Segment,"['brute force', 'math', 'sortings']",1000.0,16933.0
+1671,A,String Building,['implementation'],800.0,19208.0
+1670,F,"Jee, You See?","['bitmasks', 'combinatorics', 'dp']",2400.0,805.0
+1670,E,Hemose on the Tree,"['bitmasks', 'constructive algorithms', 'dfs and similar', 'trees']",2200.0,1478.0
+1670,D,Very Suspicious,"['binary search', 'brute force', 'geometry', 'greedy', 'implementation', 'math']",1700.0,4483.0
+1670,C,Where is the Pizza?,"['data structures', 'dfs and similar', 'dsu', 'graphs', 'implementation', 'math']",1400.0,8480.0
+1670,B,Dorms War,"['brute force', 'implementation', 'strings']",1100.0,11666.0
+1670,A,Prof. Slim,"['greedy', 'implementation', 'sortings']",800.0,14646.0
+1669,H,Maximal AND,"['bitmasks', 'greedy', 'math']",1300.0,13108.0
+1669,G,Fall Down,"['dfs and similar', 'implementation']",1200.0,14651.0
+1669,F,Eating Candies,"['binary search', 'data structures', 'greedy', 'two pointers']",1100.0,18406.0
+1669,E,2-Letter Strings,"['data structures', 'math', 'strings']",1200.0,14275.0
+1669,D,Colorful Stamp,['implementation'],1100.0,18274.0
+1669,C,Odd/Even Increments,"['greedy', 'greedy', 'implementation', 'math']",800.0,28198.0
+1669,B,Triple,"['implementation', 'sortings']",800.0,32304.0
+1669,A,Division?,['implementation'],800.0,42918.0
+1668,B,Social Distance,"['greedy', 'math', 'sortings']",900.0,15183.0
+1668,A,Direction Change,"['implementation', 'math']",800.0,15622.0
+1667,F,Yin Yang,['implementation'],3500.0,67.0
+1667,E,Centroid Probabilities,"['combinatorics', 'dp', 'fft', 'math']",3000.0,414.0
+1667,D,Edge Elimination,"['constructive algorithms', 'dfs and similar', 'dp', 'trees']",2900.0,477.0
+1667,C,Half Queen Cover,"['constructive algorithms', 'math']",2400.0,1223.0
+1667,B,Optimal Partition,"['data structures', 'dp']",2100.0,3075.0
+1667,A,Make it Increasing,"['brute force', 'greedy', 'math']",1300.0,13032.0
+1666,L,Labyrinth,"['dfs and similar', 'graphs']",1800.0,2630.0
+1666,K,Kingdom Partition,['flows'],3200.0,124.0
+1666,J,Job Lookup,"['constructive algorithms', 'dp', 'shortest paths', 'trees']",2100.0,1138.0
+1666,I,Interactive Treasure Hunt,"['brute force', 'constructive algorithms', 'geometry', 'interactive', 'math']",2200.0,1232.0
+1666,H,Heroes of Might,['math'],3500.0,53.0
+1666,G,Global Warming,"['geometry', 'math']",3100.0,112.0
+1666,F,Fancy Stack,"['combinatorics', 'dp', 'implementation']",2200.0,923.0
+1666,E,Even Split,"['binary search', 'constructive algorithms', 'greedy', 'math']",2500.0,568.0
+1666,D,Deletive Editing,['greedy'],900.0,5528.0
+1666,C,Connect the Points,"['brute force', 'constructive algorithms', 'geometry']",1800.0,2719.0
+1666,B,Budget Distribution,[],3300.0,46.0
+1666,A,Admissible Map,[],3300.0,84.0
+1665,E,MinimizOR,"['bitmasks', 'brute force', 'data structures', 'divide and conquer', 'greedy', 'implementation', 'two pointers']",2500.0,1202.0
+1665,D,GCD Guess,"['bitmasks', 'chinese remainder theorem', 'constructive algorithms', 'games', 'interactive', 'math', 'number theory']",2000.0,3235.0
+1665,C,Tree Infection,"['binary search', 'greedy', 'sortings', 'trees']",1600.0,7219.0
+1665,B,Array Cloning Technique,"['constructive algorithms', 'greedy', 'sortings']",900.0,16859.0
+1665,A,GCD vs LCM,"['constructive algorithms', 'math']",800.0,21628.0
+1663,H,Cross-Language Program,"['*special problem', 'constructive algorithms']",2926.923076923077,1158.0
+1663,G,Six Characters,"['*special problem', 'constructive algorithms', 'strings']",2582.1428571428573,180.0
+1663,F,In Every Generation...,"['*special problem', 'strings']",2566.6666666666665,301.0
+1663,E,Are You Safe?,"['*special problem', 'implementation']",2313.4615384615386,499.0
+1663,D,Is it rated - 3,"['*special problem', 'combinatorics', 'dp', 'math']",1888.7417218543046,1297.0
+1663,C,Pōja Verdon,"['*special problem', 'implementation', 'math']",1503.1645569620252,5361.0
+1663,B,Mike's Sequence,"['*special problem', 'divide and conquer', 'implementation', 'math']",1098.3050847457628,3147.0
+1663,A,Who Tested?,"['*special problem', 'expression parsing', 'trees']",898.3050847457627,9808.0
+1662,O,Circular Maze,"['brute force', 'dfs and similar', 'graphs', 'implementation']",1800.2781671790558,1022.0
+1662,N,Drone Photo,"['combinatorics', 'math', 'sortings']",2500.0,511.0
+1662,M,Bottle Arrangements,['constructive algorithms'],1933.3333333333333,2756.0
+1662,L,Il Derby della Madonnina,"['data structures', 'dp', 'math']",2320.0,800.0
+1662,K,Pandemic Restrictions,"['geometry', 'ternary search']",2460.0,230.0
+1662,J,Training Camp,"['flows', 'graphs']",2580.0,101.0
+1662,I,Ice Cream Shop,"['brute force', 'implementation', 'sortings']",2911.1111111111113,1613.0
+1662,H,Boundary,"['brute force', 'math']",2926.923076923077,2274.0
+1662,G,Gastronomic Event,"['dp', 'greedy', 'trees']",2582.1428571428573,359.0
+1662,F,Antennas,"['data structures', 'dfs and similar', 'graphs', 'graphs', 'implementation', 'implementation', 'shortest paths', 'shortest paths']",2566.6666666666665,754.0
+1662,E,Round Table,['math'],2313.4615384615386,91.0
+1662,D,Evolution of Weasels,"['greedy', 'implementation', 'strings']",1888.7417218543046,1350.0
+1662,C,European Trip,"['dp', 'graphs', 'math', 'matrices']",1503.1645569620252,224.0
+1662,B,Toys,"['greedy', 'strings']",1098.3050847457628,119.0
+1662,A,Organizing SWERC,"['brute force', 'implementation']",898.3050847457627,3632.0
+1661,F,Teleporters,"['binary search', 'greedy']",2600.0,458.0
+1661,E,Narrow Components,"['brute force', 'data structures', 'dp', 'dsu', 'math', 'trees']",2500.0,811.0
+1661,D,Progressions Covering,"['data structures', 'greedy']",1900.0,3919.0
+1661,C,Water the Trees,"['binary search', 'greedy', 'math']",1700.0,8035.0
+1661,B,Getting Zero,"['bitmasks', 'brute force', 'dfs and similar', 'dp', 'graphs', 'greedy', 'shortest paths']",1300.0,14887.0
+1661,A,Array Balancing,"['greedy', 'math']",800.0,17528.0
+1660,F2,Promising String (hard version),"['data structures', 'implementation', 'math', 'strings']",2100.0,2317.0
+1660,F1,Promising String (easy version),"['brute force', 'implementation', 'math', 'strings']",1700.0,6318.0
+1660,E,Matrix and Shifts,"['brute force', 'constructive algorithms', 'greedy', 'implementation']",1600.0,6296.0
+1660,D,Maximum Product Strikes Back,"['brute force', 'implementation', 'math', 'two pointers']",1600.0,7146.0
+1660,C,Get an Even String,"['dp', 'greedy', 'strings']",1300.0,16744.0
+1660,B,Vlad and Candies,['math'],800.0,25755.0
+1660,A,Vasya and Coins,"['greedy', 'math']",800.0,32187.0
+1659,F,Tree and Permutation Game,"['dfs and similar', 'games', 'graphs', 'trees']",3000.0,152.0
+1659,E,AND-MEX Walk,"['bitmasks', 'brute force', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs']",2200.0,1265.0
+1659,D,Reverse Sort Sum,"['constructive algorithms', 'data structures', 'greedy', 'implementation', 'math', 'two pointers']",1900.0,3521.0
+1659,C,Line Empire,"['binary search', 'brute force', 'dp', 'greedy', 'implementation', 'math']",1500.0,8490.0
+1659,B,Bit Flipping,"['bitmasks', 'constructive algorithms', 'greedy', 'strings']",1300.0,9702.0
+1659,A,Red Versus Blue,"['constructive algorithms', 'greedy', 'implementation', 'math']",1000.0,15169.0
+1658,F,Juju and Binary String,"['brute force', 'constructive algorithms', 'greedy', 'math']",2700.0,627.0
+1658,E,Gojou and Matrix Game,"['data structures', 'dp', 'games', 'hashing', 'implementation', 'math', 'number theory', 'sortings']",2500.0,875.0
+1658,D2,388535 (Hard Version),"['bitmasks', 'brute force', 'data structures', 'math']",2300.0,2109.0
+1658,D1,388535 (Easy Version),"['bitmasks', 'math']",1600.0,7886.0
+1658,C,Shinju and the Lost Permutation,"['constructive algorithms', 'math']",1700.0,8481.0
+1658,B,Marin and Anti-coprime Permutation,"['combinatorics', 'math', 'number theory']",800.0,17549.0
+1658,A,Marin and Photoshoot,"['constructive algorithms', 'implementation', 'math']",800.0,19504.0
+1657,F,Words on Tree,"['2-sat', 'dfs and similar', 'dsu', 'graphs', 'trees']",2600.0,458.0
+1657,E,Star MST,"['combinatorics', 'dp', 'graph matchings', 'math']",2200.0,1608.0
+1657,D,For Gamers. By Gamers.,"['binary search', 'brute force', 'greedy', 'math', 'sortings']",2000.0,4365.0
+1657,C,Bracket Sequence Deletion,"['greedy', 'implementation']",1200.0,15568.0
+1657,B,XY Sequence,['greedy'],800.0,21778.0
+1657,A,Integer Moves,"['brute force', 'math']",800.0,22822.0
+1656,I,Neighbour Ordering,"['constructive algorithms', 'graphs']",3500.0,69.0
+1656,H,Equal LCM Subsets,"['data structures', 'math', 'number theory']",3200.0,283.0
+1656,G,Cycle Palindrome,"['constructive algorithms', 'graphs', 'math']",3200.0,238.0
+1656,F,Parametric MST,"['binary search', 'constructive algorithms', 'graphs', 'greedy', 'math', 'sortings']",2600.0,835.0
+1656,E,Equal Tree Sums,"['constructive algorithms', 'dfs and similar', 'math', 'trees']",2200.0,2903.0
+1656,D,K-good,"['constructive algorithms', 'math', 'number theory']",1900.0,5957.0
+1656,C,Make Equal With Mod,"['constructive algorithms', 'math', 'number theory', 'sortings']",1200.0,16534.0
+1656,B,Subtract Operation,"['data structures', 'greedy', 'math', 'two pointers']",1100.0,16008.0
+1656,A,Good Pairs,"['math', 'sortings']",800.0,18338.0
+1654,H,Three Minimums,"['combinatorics', 'constructive algorithms', 'divide and conquer', 'dp', 'fft', 'math']",3500.0,61.0
+1654,G,Snowy Mountain,"['data structures', 'dfs and similar', 'graphs', 'greedy', 'shortest paths', 'trees']",2900.0,301.0
+1654,F,Minimal String Xoration,"['bitmasks', 'data structures', 'divide and conquer', 'greedy', 'hashing', 'sortings', 'strings']",2800.0,877.0
+1654,E,Arithmetic Operations,"['brute force', 'data structures', 'graphs', 'math']",2300.0,1735.0
+1654,D,Potion Brewing Class,"['dfs and similar', 'math', 'number theory', 'trees']",2100.0,2566.0
+1654,C,Alice and the Cake,"['data structures', 'greedy', 'implementation', 'sortings']",1400.0,12157.0
+1654,B,Prefix Removals,['strings'],800.0,14996.0
+1654,A,Maximum Cake Tastiness,"['brute force', 'greedy', 'implementation', 'sortings']",800.0,17774.0
+1651,F,Tower Defense,"['binary search', 'brute force', 'data structures']",3000.0,236.0
+1651,E,Sum of Matchings,"['brute force', 'combinatorics', 'constructive algorithms', 'dfs and similar', 'graph matchings', 'greedy', 'math']",2600.0,424.0
+1651,D,Nearest Excluded Points,"['binary search', 'data structures', 'dfs and similar', 'graphs', 'shortest paths']",1900.0,4275.0
+1651,C,Fault-tolerant Network,"['brute force', 'data structures', 'implementation']",1500.0,9732.0
+1651,B,Prove Him Wrong,"['constructive algorithms', 'greedy']",800.0,18888.0
+1651,A,Playoff,['implementation'],800.0,24335.0
+1650,G,Counting Shortcuts,"['data structures', 'dfs and similar', 'dp', 'graphs', 'shortest paths']",2100.0,2057.0
+1650,F,Vitaly and Advanced Useless Algorithms,"['dp', 'greedy', 'implementation']",2200.0,1219.0
+1650,E,Rescheduling the Exam,"['binary search', 'data structures', 'greedy', 'implementation', 'math', 'sortings']",1900.0,3660.0
+1650,D,Twist the Permutation,"['brute force', 'constructive algorithms', 'implementation', 'math']",1300.0,11695.0
+1650,C,Weight of the System of Nested Segments,"['greedy', 'hashing', 'implementation', 'sortings']",1200.0,14978.0
+1650,B,DIV + MOD,['math'],900.0,24288.0
+1650,A,Deletions of Two Adjacent Letters,"['implementation', 'strings']",800.0,31202.0
+1649,B,Game of Ball Passing,"['greedy', 'implementation']",1300.0,11894.0
+1649,A,Game,['implementation'],800.0,14727.0
+1648,F,Two Avenues,"['data structures', 'dfs and similar', 'graphs']",3500.0,63.0
+1648,E,Air Reform,"['data structures', 'dfs and similar', 'divide and conquer', 'dsu', 'graphs', 'implementation', 'trees']",3200.0,293.0
+1648,D,Serious Business,"['data structures', 'divide and conquer', 'dp', 'implementation', 'shortest paths']",2800.0,661.0
+1648,C,Tyler and Strings,"['combinatorics', 'data structures', 'implementation']",1900.0,2590.0
+1648,B,Integral Array,"['brute force', 'constructive algorithms', 'data structures', 'math']",1800.0,5535.0
+1648,A,Weird Sum,"['combinatorics', 'data structures', 'geometry', 'math', 'matrices', 'sortings']",1400.0,10462.0
+1647,F,Madoka and Laziness,"['dp', 'greedy']",3100.0,325.0
+1647,E,Madoka and the Sixth-graders,"['data structures', 'dfs and similar', 'greedy']",2500.0,853.0
+1647,D,Madoka and the Best School in Russia,"['constructive algorithms', 'dp', 'math', 'number theory']",1900.0,4657.0
+1647,C,Madoka and Childish Pranks,"['constructive algorithms', 'greedy']",1300.0,11642.0
+1647,B,Madoka and the Elegant Gift,"['brute force', 'constructive algorithms', 'graphs', 'implementation']",1200.0,14202.0
+1647,A,Madoka and Math Dad,"['implementation', 'math']",800.0,21609.0
+1646,F,Playing Around the Table,"['constructive algorithms', 'greedy', 'implementation']",2900.0,340.0
+1646,E,Power Board,"['brute force', 'dp', 'math', 'number theory']",2200.0,2008.0
+1646,D,Weight the Tree,"['constructive algorithms', 'dfs and similar', 'dp', 'implementation', 'trees']",2000.0,3080.0
+1646,C,Factorials and Powers of Two,"['bitmasks', 'brute force', 'constructive algorithms', 'dp', 'math']",1500.0,11481.0
+1646,B,Quality vs Quantity,"['brute force', 'constructive algorithms', 'greedy', 'sortings', 'two pointers']",800.0,19675.0
+1646,A,Square Counting,['math'],800.0,22800.0
+1644,F,Basis,"['combinatorics', 'fft', 'math', 'number theory']",2900.0,287.0
+1644,E,Expand the Path,"['brute force', 'combinatorics', 'data structures', 'implementation', 'math']",1900.0,2680.0
+1644,D,Cross Coloring,"['data structures', 'implementation', 'math']",1700.0,6370.0
+1644,C,Increase Subarray Sums,"['brute force', 'dp', 'greedy', 'implementation']",1400.0,12250.0
+1644,B,Anti-Fibonacci Permutation,"['brute force', 'constructive algorithms', 'implementation']",800.0,19773.0
+1644,A,Doors and Keys,['implementation'],800.0,25467.0
+1642,B,Power Walking,['greedy'],900.0,15621.0
+1642,A,Hard Way,['geometry'],800.0,15313.0
+1641,F,Covering Circle,['geometry'],3500.0,77.0
+1641,E,Special Positions,"['combinatorics', 'divide and conquer', 'fft', 'math']",3300.0,176.0
+1641,D,Two Arrays,"['bitmasks', 'brute force', 'combinatorics', 'greedy', 'hashing', 'math', 'two pointers']",2700.0,845.0
+1641,C,Anonymity Is Important,"['binary search', 'brute force', 'data structures', 'dsu', 'greedy', 'sortings']",2200.0,2068.0
+1641,B,Repetitions Decoding,"['constructive algorithms', 'implementation', 'sortings']",2000.0,3481.0
+1641,A,Great Sequence,"['brute force', 'greedy', 'sortings']",1200.0,16101.0
+1639,K,Treasure Hunt,"['graphs', 'interactive']",2460.0,1031.6666666666667
+1639,J,Treasure Hunt,"['graphs', 'interactive']",2580.0,365.3333333333333
+1639,I,Treasure Hunt,"['graphs', 'interactive']",2911.1111111111113,435.7
+1639,H,Treasure Hunt,"['graphs', 'interactive']",2926.923076923077,1352.392857142857
+1639,G,Treasure Hunt,"['graphs', 'interactive']",2582.1428571428573,2012.7241379310344
+1639,F,Treasure Hunt,"['graphs', 'interactive']",2566.6666666666665,1599.7142857142858
+1639,E,Treasure Hunt,"['graphs', 'interactive']",2313.4615384615386,2758.635220125786
+1639,D,Treasure Hunt,"['graphs', 'interactive']",1888.7417218543046,5638.168831168831
+1639,C,Treasure Hunt,"['graphs', 'interactive']",1503.1645569620252,10666.316770186335
+1639,B,Treasure Hunt,"['graphs', 'interactive']",1098.3050847457628,15343.905555555555
+1639,A,Treasure Hunt,"['graphs', 'interactive']",898.3050847457627,19613.244444444445
+1638,F,Two Posters,"['brute force', 'data structures', 'greedy', 'two pointers']",3200.0,163.0
+1638,E,Colorful Operations,"['brute force', 'data structures', 'implementation']",2400.0,1574.0
+1638,D,Big Brush,"['constructive algorithms', 'data structures', 'greedy', 'implementation']",2000.0,3729.0
+1638,C,Inversion Graph,"['data structures', 'dsu', 'graphs', 'math']",1300.0,13331.0
+1638,B,Odd Swap Sort,"['data structures', 'math', 'sortings']",1100.0,18852.0
+1638,A,Reverse,"['constructive algorithms', 'greedy', 'math']",800.0,20550.0
+1637,H,Minimize Inversions Number,"['data structures', 'greedy', 'math', 'sortings']",3500.0,227.0
+1637,G,Birthday,"['constructive algorithms', 'greedy', 'math']",3000.0,384.0
+1637,F,Towers,"['constructive algorithms', 'dfs and similar', 'dp', 'greedy', 'trees']",2500.0,1494.0
+1637,E,Best Pair,"['binary search', 'brute force', 'implementation']",2100.0,2888.0
+1637,D,Yet Another Minimization Problem,"['dp', 'greedy', 'math']",1800.0,6614.0
+1637,C,Andrew and Stones,"['greedy', 'implementation']",1200.0,16182.0
+1637,B,MEX and Array,"['brute force', 'dp', 'greedy', 'math']",1100.0,14179.0
+1637,A,Sorting Parts,"['brute force', 'sortings']",800.0,21408.0
+1635,F,Closest Pair,"['data structures', 'greedy']",2800.0,825.0
+1635,E,Cars,"['2-sat', 'constructive algorithms', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'sortings']",2200.0,1922.0
+1635,D,Infinite Set,"['bitmasks', 'dp', 'math', 'matrices', 'number theory', 'strings']",1800.0,5351.0
+1635,C,Differential Sorting,"['constructive algorithms', 'greedy']",1200.0,14833.0
+1635,B,Avoid Local Maximums,['greedy'],800.0,17262.0
+1635,A,Min Or Sum,"['bitmasks', 'greedy']",800.0,20326.0
+1634,F,Fibonacci Additions,"['brute force', 'data structures', 'hashing', 'implementation', 'math']",2700.0,1270.0
+1634,E,Fair Share,"['constructive algorithms', 'data structures', 'dfs and similar', 'graph matchings', 'graphs']",2400.0,1413.0
