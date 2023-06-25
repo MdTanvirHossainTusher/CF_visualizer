@@ -16,29 +16,42 @@ To see the visualization and findings you can visit the public dashboard here[ [
 [5](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_2/Sheet3), [6](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_3/Sheet5) ].
 
 
+
 ## Findings and Observations
 
 1. Mostly, difficulty of the categories increases alphabetically. For instance - B is difficult than A. On the other hand C is difficult than both A & B. Category A1, B1, G2, G3,.. which has a number on it's       prefix didn't follow this criteria.
+
 2. If the problems difficulty increases, mostly count of total solve decreses. You can find the difficulty of the problem from point 1. Difficulty of problems cateogry - A, B, C are less than G3, I, J etc.
    So, A, B. C, D has highest solve count.
+
 3. Solves count in contest mostly depend on problems difficulty rathan than total contest occured overall. We see if the problem has less difficulty, then it got higher solves. e.g - A & B have the same          contest count but as A is less difficult than B, so contestant love to solve A rather than a bit difficult problem B.
+
 4. Category wise problems count is same as the no of contest occured. All contest have problem A, B. So, it has the same count. C, D also occur almost every contest but in the problemset those problems were not maintain any serail. So, most probably this scenario occures for C, D also. But, G3, O, M, N category problem occurs rarely.
+
 5. We see a list of tags and problems category. From here one can get a rough idea about what type of problems belongs to which type of problem topics/tags. But from the data it's really hard to come up with     a decision because it shows arbitrary results.
+
 6. One can get more clear idea about a problem. One can find the difficulty of a problem and it's category. Difficulty level again depends on the category(vice-versa). A problem has low difficulty than B, C,     D etc. But, here also we can't take any decision about the tags. One category problem contains multiple tags.
+
+
 
 ## Build From Sources and Run the Code
 
 1. Clone the repository
    `git clone https://github.com/MdTanvirHossainTusher/CF_visualizer.git`
+
 2. Open the repository in your preferable editor and enter to `CF_visualizer` directory.
+
 3. Create a virtual environment with these commands in windows-
    `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
    `.\venv\Scripts\activate`
+
 4. Install selenium web driver and pandas into the virtual environment by the below commands-
    `pip install selenium webdriver_manager`
    `pip install pandas`
+
 5. Run `main.py` with this command-
    `python example.py`
+
 6. To deactivate the virtual environment type this command-
    `deactivate`
 
