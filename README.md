@@ -50,7 +50,7 @@ To see the visualization and findings you can visit the public dashboard here[ [
    `pip install pandas`
 
 5. Run `main.py` with this command-
-   `python example.py`
+   `python main.py`
 
 6. To deactivate the virtual environment type this command-
    `deactivate`
