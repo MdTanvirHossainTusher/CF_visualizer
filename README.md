@@ -29,7 +29,25 @@ To see the visualization and findings you can visit the public dashboard here[ [
 ## Build From Sources and Run the Code
 
 1. Clone the repository
-   `git clone `
+   `git clone https://github.com/MdTanvirHossainTusher/CF_visualizer.git`
+2. Open the repository in your preferable editor and enter to `CF_visualizer` directory.
+3. Create a virtual environment with these commands in windows-
+   `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+   `.\venv\Scripts\activate`
+4. Install selenium web driver and pandas into the virtual environment by the below commands-
+   `pip install selenium webdriver_manager`
+   `pip install pandas`
+5. Run `main.py` with this command-
+   `python example.py`
+6. To deactivate the virtual environment type this command-
+   `deactivate`
+
+## To run `CF_VISUALIZER.ipynb`-
+
+1. Open the file in Google colab or Jupyter notebook and run all the cells sequentially.
+
+
+N.B: You will get the `cf_problem_details.csv` file after running successfully `main.py`. On the other hand, after running `CF_VISUALIZER.ipynb` you will get the cleaned dataset as `clean_cf_problem_details_dataset.csv`
 
 
 
