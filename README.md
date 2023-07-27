@@ -24,7 +24,7 @@ To see the visualization and findings you can visit the public dashboard here[ [
 2. If the problems difficulty increases, mostly count of total solve decreses. You can find the difficulty of the problem from point 1. Difficulty of problems cateogry - A, B, C are less than G3, I, J etc.
    So, A, B. C, D has highest solve count.
 
-3. Solves count in contest mostly depend on problems difficulty rathan than total contest occured overall. We see if the problem has less difficulty, then it got higher solves. e.g - A & B have the same          contest count but as A is less difficult than B, so contestant love to solve A rather than a bit difficult problem B.
+3. Solve counts in contest mostly depend on problems difficulty rathan than total contest occured overall. We see if the problem has less difficulty, then it got higher solves. e.g - A & B have the same          contest count but as A is less difficult than B, so contestant love to solve A rather than a bit difficult problem B.
 
 4. Category wise problems count is same as the no of contest occured. All contest have problem A, B. So, it has the same count. C, D also occur almost every contest but in the problemset those problems were not maintain any serail. So, most probably this scenario occures for C, D also. But, G3, O, M, N category problem occurs rarely.
 
