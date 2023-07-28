@@ -15,6 +15,15 @@ Later we utilized the scraped data to understand the following demographics and 
 To see the visualization and findings you can visit the public dashboard here[ [1-4](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_1/visualization), 
 [5](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_2/Sheet3), [6](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_3/Sheet5) ].
 
+**Tableau Dashboard (1-4):** <br/>
+<img src = "CF_Findings(1-4).PNG" width="700" height="350"><br/>
+
+**Tableau Dashboard (5):** <br/>
+<img src = "CF_Findings(5).PNG" width="700" height="350"><br/>
+
+**Tableau Dashboard (6):** <br/>
+<img src = "CF_Findings(6).PNG" width="700" height="350"><br/>
+
 
 
 ## Findings and Observations
