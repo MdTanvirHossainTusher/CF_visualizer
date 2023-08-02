@@ -1,7 +1,7 @@
 import pages.problem_set_page as problem_set_page
 
 
-def _main():
+def main():
     problem_set_page.click_on_problem_set_menu()
     problems_details = problem_set_page.fetch_problem_details()
     problem_set_page.exit()
@@ -10,4 +10,4 @@ def _main():
 
 
 if __name__ == "__main__":
-    _main()
+    main()

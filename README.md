@@ -15,14 +15,14 @@ Later we utilized the scraped data to understand the following demographics and 
 To see the visualization and findings you can visit the public dashboard here[ [1-4](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_1/visualization), 
 [5](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_2/Sheet3), [6](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/CF_visualizer_3/Sheet5) ].
 
-**Tableau Dashboard (1-4):** <br/>
-<img src = "CF_Findings(1-4).PNG" width="700" height="350"><br/>
+**Findings From Problem Difficulties:** <br/>
+<img src = "images/findings_from_problem_difficulties.PNG" width="700" height="350"><br/>
 
-**Tableau Dashboard (5):** <br/>
-<img src = "CF_Findings(5).PNG" width="700" height="350"><br/>
+**Findings From Problem Tags:** <br/>
+<img src = "images/findings_from_problem_tags.PNG" width="700" height="350"><br/>
 
-**Tableau Dashboard (6):** <br/>
-<img src = "CF_Findings(6).PNG" width="700" height="350"><br/>
+**Findings From Problem Categories and Tags:** <br/>
+<img src = "images/findings_from_problem_categories_and_tags.PNG" width="700" height="350"><br/>
 
 
 
@@ -58,19 +58,19 @@ To see the visualization and findings you can visit the public dashboard here[ [
    `pip install selenium webdriver_manager`
    `pip install pandas`
 
-5. Run `main.py` with this command-
-   `python main.py`
+5. Run `scraper.py` with this command-
+   `python scraper.py`
 
 6. To deactivate the virtual environment type this command-
    `deactivate`
 
    
-## To run `CF_VISUALIZER.ipynb`-
+## To run `notebooks/CF_VISUALIZER.ipynb` -
 
 1. Open the file in Google colab or Jupyter notebook and run all the cells sequentially.
 
 
-N.B: You will get the `cf_problem_details.csv` file after running successfully `main.py`. On the other hand, after running `CF_VISUALIZER.ipynb` you will get the cleaned dataset as `clean_cf_problem_details_dataset.csv`
+N.B: You will get the `data/cf_problem_details.csv` file after running successfully `scraper.py`. On the other hand, after running `notebooks/CF_VISUALIZER.ipynb` you will get the cleaned dataset as `data/clean_cf_problem_details_dataset.csv`
 
 
 
